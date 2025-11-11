@@ -1,0 +1,1501 @@
+Type_of_client;Age;Gender;Favorite_batter;Favorite_filling;Favorite_frosting;More_toppings;Topping_examples;Configuration;Frequency_of_buying;Occasion;Interest_in_seasonality;Seasonal_option;Product_type;Willingness_to_pay
+Adult;33.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;33.40 €
+Kid;15.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Slice;Weekly;Celebration;No;None;Slice;2.60 €
+Kid;7.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Nuts;Cupcake;Daily;Snack;No;None;Cupcake;2.00 €
+Adult;54.0;Masculine;Red Velvet;Lemon curd;Ganache;No;None;Wedding cake;Daily;Gathering;Yes;Fall;Wedding cake;48.80 €
+;4.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Slice;Weekly;Birthday;No;None;Slice;1.20 €
+Adult;39.0;Feminine;Carrot;Lemon curd;Ganache;No;None;Slice;Weekly;Celebration;No;None;Slice;2.80 €
+Adult;58.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Sprinkles;Slice;Weekly;Gathering;Yes;Valentine's Day;Slice;2.30 €
+Adult;55.0;Femanine;Red Velvet;Cream cheese;Ganache;No;None;Slice;Weekly;Celebration;No;None;Slice;5.60 €
+Adult;36.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;;Slice;Daily;Celebration;No;None;Slice;5.40 €
+Kid;16.0;Masculine;Red Velvet;Strawberry jam;;Yes;Fruits;Cupcake;Weekly;Birthday;No;None;Cupcake;5.00 €
+Kid;11.0;Masculine;Red Velvet;Chocolate ganache;Buttercream;No;None;Slice;Daily;Celebration;No;None;Slice;1.10 €
+Adult;61.0;Masculine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Monthly;Work event;Yes;Easter;Whole cake;17.60 €
+Adult;55.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Gathering;No;None;Slice;5.90 €
+Adult;62.0;Feminine;Carrot;Cream cheese;Chocolate glaze;No;None;Slice;Monthly;Work event;Yes;Christmas;Slice;5.70 €
+Adult;23.0;Feminine;Lemon;Lemon curd;Ganache;No;None;Whole cake;Weekly;Work event;No;None;Whole cake;22.60 €
+Adult;48.0;Masculine;Carrot;Cream cheese;Chocolate glaze;Yes;Chocolate chips;Slice;Monthly;Gathering;No;None;Slice;4.90 €
+Kid;8.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;No;None;Slice;Weekly;Snack;No;None;Slice;2.00 €
+Kid;14.0;Feminine;Red Velvet;Strawberry jam;Whipped cream;Yes;Nuts;Slice;Monthly;Celebration;No;None;Slice;2.60 €
+Kid;9.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Slice;Weekly;Celebration;No;None;Slice;1.50 €
+Kid;11.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;Fruits;Cupcake;Daily;Birthday;Yes;Valentine's Day;Cupcake;4.80 €
+Kid;10.0;Feminine;Red Velvet;Chocolate ganache;Whipped cream;Yes;Fruits;Slice;Monthly;Celebration;Yes;Valentine's Day;Slice;3.60 €
+Kid;13.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;Nuts;Slice;Monthly;Celebration;No;None;Slice;5.40 €
+Kid;16.0;Feminine;Red Velvet;Strawberry jam;Buttercream;Yes;Sprinkles;Slice;Sporadic;Birthday;Yes;Valentine's Day;Slice;1.50 €
+Adult;44.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Slice;Monthly;Gathering;Yes;;Slice;5.00 €
+;50.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Slice;Weekly;Work event;No;None;Slice;3.90 €
+Adult;45.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Whole cake;Monthly;Wedding;No;None;Whole cake;39.40 €
+Adult;25.0;Feminine;Lemon;Dulce de leche;Ganache;No;None;Slice;Daily;Work event;Yes;Valentine's Day;Slice;2.20 €
+Adult;45.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Wedding cake;Sporadic;Wedding;No;None;Wedding cake;63.10 €
+Kid;13.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Edible flowers;Slice;Monthly;Snack;No;None;Slice;2.10 €
+Kid;8.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Fruits;Slice;Daily;Birthday;No;None;Slice;3.00 €
+Adult;48.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Chocolate chips;Whole cake;Daily;Wedding;Yes;Valentine's Day;Whole cake;35.40 €
+Kid;6.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Slice;Weekly;Snack;No;None;Slice;1.20 €
+Kid;14.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Slice;Weekly;Celebration;Yes;Easter;Slice;1.40 €
+Kid;7.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Daily;Celebration;No;None;Cupcake;2.60 €
+Kid;6.0;Feminine;Red Velvet;Strawberry jam;Whipped cream;No;None;Cupcake;Weekly;Snack;Yes;Fall;Cupcake;4.80 €
+Adult;51.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Gathering;No;None;Whole cake;21.90 €
+Adult;47.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Whole cake;Monthly;Work event;Yes;Easter;Whole cake;20.40 €
+Adult;38.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Slice;Daily;Gathering;No;None;Slice;2.00 €
+Adult;43.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Monthly;Work event;No;None;Whole cake;12.70 €
+Adult;55.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Celebration;Yes;Halloween;Whole cake;36.90 €
+Adult;46.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Slice;Monthly;Work event;No;None;Slice;4.70 €
+Adult;50.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;Yes;Chocolate chips;Wedding cake;Daily;Gathering;No;None;Wedding cake;95.30 €
+Adult;25.0;Masculine;Red Velvet;Cream cheese;Ganache;No;None;Slice;Monthly;Work event;Yes;Easter;Slice;3.60 €
+Adult;54.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Sprinkles;Slice;Weekly;Celebration;Yes;Valentine's Day;Slice;5.50 €
+Kid;14.0;Feminine;Chocolate;Strawberry jam;Whipped cream;No;None;Slice;Weekly;Celebration;No;None;Slice;1.60 €
+Kid;13.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;No;None;Cupcake;Weekly;Birthday;No;None;Cupcake;5.30 €
+Adult;30.0;Masculine;Carrot;Cream cheese;;Yes;Sprinkles;Slice;Weekly;Celebration;Yes;Halloween;Slice;5.40 €
+Adult;;Feminine;Lemonn;Dulce de leche;Ganache;No;None;Wedding cake;Daily;Wedding;No;None;Wedding cake;44.80 €
+Kid;7.0;Masculine;Red Velvet;Chocolate ganache;Whipped cream;Yes;Chocolate chips;Slice;Daily;Birthday;No;None;Slice;4.80 €
+Adult;33.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Sprinkles;Slice;Daily;Gathering;Yes;Halloween;Slice;2.10 €
+Adult;39.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Wedding cake;Sporadic;Work event;No;None;Wedding cake;97.70 €
+Adult;29.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Daily;Gathering;No;None;Wedding cake;90.20 €
+Adult;49.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Wedding cake;Sporadic;Wedding;Yes;Easter;Wedding cake;51.20 €
+Adult;26.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Celebration;No;None;Slice;5.90 €
+Adult;44.0;Feminine;Red Velvet;Cream cheese;Ganache;Yes;Edible flowers;Slice;Sporadic;Gathering;No;None;Slice;2.20 €
+Kid;14.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Slice;Weekly;Snack;No;None;Slice;2.30 €
+Kid;14.0;Masculine;;Chocolate ganache;Whipped cream;Yes;Edible flowers;Cupcake;Weekly;Celebration;No;None;Cupcake;4.00 €
+Kid;16.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;No;None;Cupcake;Daily;Birthday;No;None;Cupcake;1.90 €
+Adult;40.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;Yes;Christmas;Whole cake;€
+Kid;4.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Slice;Sporadic;Snack;No;None;Slice;2.30 €
+Kid;9.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Slice;Monthly;Snack;Yes;Easter;Slice;3.50 €
+Kid;15.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Cupcake;Weekly;Celebration;Yes;Valentine's Day;Cupcake;2.30 €
+;11.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Slice;Monthly;Birthday;Yes;Valentine's Day;Slice;3.60 €
+Kid;10.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Slice;Daily;Snack;No;None;Slice;5.30 €
+Adult;24.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Daily;Wedding;No;None;Wedding cake;56.80 €
+Adult;23.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;Yes;Halloween;Whole cake;29.30 €
+Adult;27.0;Masculine;Carrot;Dulce de leche;Ganache;No;None;Wedding cake;Monthly;Wedding;No;None;Wedding cake;51.90 €
+Adult;23.0;Masculine;Carrot;Lemon curd;Ganache;Yes;Sprinkles;Whole cake;Daily;Work event;No;None;Whole cake;35.60 €
+Adult;32.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;Yes;Chocolate chips;Wedding cake;Weekly;Gathering;No;None;Wedding cake;78.70 €
+Kid;4.0;Feminine;Chocolate;Strawberry jam;;No;None;Slice;Weekly;Celebration;No;None;Slice;5.50 €
+Kid;17.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Slice;Weekly;Birthday;Yes;Valentine's Day;Slice;1.60 €
+Adult;50.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Edible flowers;Whole cake;Sporadic;Gathering;No;None;Whole cake;30.50 €
+Adult;36.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Slice;Daily;Gathering;No;None;Slice;3.40 €
+Adult;28.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Fruits;Whole cake;Weekly;Wedding;No;None;Whole cake;24.50 €
+Adult;30.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Slice;Daily;Wedding;Yes;Christmas;Slice;4.00 €
+Adult;34.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Daily;Gathering;Yes;Halloween;Wedding cake;98.70 €
+Kid;11.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Slice;Weeekly;Birthday;No;None;Slice;3.90 €
+Adult;27.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Daily;Work event;No;None;Slice;5.80 €
+Adult;43.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;11.60 €
+Adult;63.0;Feminine;Carrot;Dulce de leche;Ganache;Yes;Fruits;Whole cake;Weekly;Celebration;No;None;Whole cake;18.60 €
+Adult;54.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Wedding cake;Daily;Celebration;No;None;Wedding cake;92.50 €
+Kid;14.0;Feminine;Chocolate;Strawberry jam;Buttercream;Yes;Sprinkles;Slice;Daily;Birthday;Yes;Valentine's Day;Slice;3.00 €
+Adult;25.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;28.30 €
+Adult;49.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Sporadic;Celebration;No;None;Whole cake;26.00 €
+Kid;7.0;Masculine;Red Velvet;Chocolate ganache;Buttercream;Yes;Edible flowers;Cupcake;Weekly;Birthday;No;None;Cupcake;4.70 €
+Adult;51.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Wedding;No;None;Slice;5.40 €
+Adult;46.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;31.20 €
+Adult;38.0;Masculine;Carrot;Lemon curd;Cream cheese frosting;Yes;Fruits;Whole cake;Sporadic;Wedding;No;None;Whole cake;11.30 €
+Adult;62.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Daily;Gathering;Yes;Valentine's Day;Wedding cake;56.20 €
+Kid;14.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Edible flowers;Cupcake;Weekly;Birthday;No;None;Cupcake;3.60 €
+Kid;13.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Slice;Daily;Birthday;No;None;Slice;3.80 €
+Adult;35.0;Feminine;Lemon;Lemon curd;Ganache;Yes;Edible flowers;Whole cake;Monthly;Celebration;No;None;Whole cake;23.20 €
+Kid;16.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Cupcake;Daily;Celebration;Yes;Christmas;Cupcake;2.20 €
+Adult;24.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Slice;Daily;Work event;No;;Slice;1.10 €
+Kid;13.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Daily;Celebration;No;None;Slice;3.70 €
+Kid;15.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Weekly;Snack;No;None;Cupcake;4.00 €
+Adult;32.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Slice;Weekly;Work event;No;None;Slice;1.20 €
+Kid;15.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Weekly;Birthday;Yes;Halloween;Cupcake;4.80 €
+Kid;14.0;Masculine;Chocolate;Chocolate ganache;Buttercream;No;None;Cupcake;Daily;Birthday;No;None;Cupcake;4.90 €
+Adult;39.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Whole cake;Sporadic;Wedding;Yes;Valentine's Day;Whole cake;10.00 €
+Kid;16.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Cupcake;Daily;Snack;Yes;Halloween;Cupcake;3.10 €
+Adult;36.0;Feminine;Red Velvet;Lemon curd;Ganache;No;None;Wedding cake;Weekly;Wedding;Yes;Easter;Wedding cake;56.70 €
+Kid;6.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Cupcake;Monthly;Birthday;Yes;Easter;Cupcake;2.50 €
+Adult;25.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Wedding cake;Monthly;Work event;No;None;Wedding cake;99.50 €
+Adult;;Feminine;Carrot;Dulce de leche;Chocolate glaze;Yes;Chocolate chips;Slice;Weekly;Celebration;Yes;Halloween;Slice;2.70 €
+Kid;13.0;Feminine;Chocolate;Strawberry jam;Buttercream;Yes;Sprinkles;Cupcake;Daily;Celebration;Yes;Fall;Cupcake;5.10 €
+Adult;35.0;Masculine;Red Velvet;Cream cheese;Chocolate glaze;Yes;Edible flowers;Whole cake;Monthly;Celebration;No;None;Whole cake;22.20 €
+Adult;59.0;Feminine;Red Velvet;Cream cheese;Chocolate glaze;No;;Whole cake;Weekly;Celebration;No;None;Whole cake;27.80 €
+Kid;9.0;Feminine;Chocolate;Strawberry jam;Buttercream;No;None;Cupcake;Weekly;Snack;No;None;Cupcake;5.40 €
+Adult;36.0;Feminine;Red Velvet;Lemon curd;Ganache;No;None;Slice;Weekly;Work event;No;None;Slice;5.00 €
+Kid;13.0;Feminine;Chocolate;Strawberry jam;Buttercream;Yes;Sprinkles;Cupcake;Daily;Celebration;Yes;Fall;Cupcake;5.10 €
+Adult;49.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Gathering;No;None;Whole cake;29.00 €
+Adult;59.0;Feminine;Carrot;Dulce de leche;Chocolate glaze;No;None;Wedding cake;Sporadic;Gathering;No;None;Wedding cake;68.90 €
+Kid;13.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Cupcake;Sporadic;Birthday;No;None;Cupcake;2.00 €
+Kid;6.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Cupcake;Daily;Celebration;No;None;Cupcake;4.90 €
+Kid;6.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Edible flowers;Cupcake;Weekly;Snack;No;None;Cupcake;5.40 €
+Adult;33.0;Feminine;Carrot;Cream cheese;Chocolate glaze;No;None;Slice;Monthly;Celebration;No;None;Slice;4.50 €
+Adult;44.0;Feminine;Carrot;Dulce de leche;Chocolate glaze;No;None;Slice;Weekly;Gathering;No;None;Slice;1.60 €
+Adult;22.0;Masculine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Slice;Weekly;Work event;No;None;Slice;5.50 €
+Adult;34.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Work event;Yes;Christmas;Whole cake;18.80 €
+Adult;34.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Wedding cake;Weekly;Wedding;No;None;Wedding cake;65.60 €
+Adult;25.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Slice;Daily;Wedding;No;None;Slice;2.70 €
+Kid;4.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Slice;Monthly;Birthday;No;None;Slice;4.20 €
+Adult;40.0;Masculine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Whole cake;Monthly;Gathering;No;None;Whole cake;17.00 €
+Adult;45.0;Masculine;Carrot;Cream cheese;Chocolate glaze;No;None;Slice;Daily;Work event;No;None;Slice;2.30 €
+Kid;16.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Cupcake;Daily;Celebration;No;None;Cupcake;3.60 €
+Adult;51.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Celebration;Yes;Valentine's Day;Slice;5.60 €
+Adult;57.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;No;None;Whole cake;28.90 €
+Adult;34.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Weekly;Celebration;No;None;Slice;2.60 €
+Kid;4.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Weekly;Snack;No;None;Cupcake;3.20 €
+Adult;52.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;20.90 €
+Adult;37.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Slice;Sporadic;Celebration;No;None;Slice;5.50 €
+Kid;6.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Monthly;Celebration;No;None;Cupcake;5.00 €
+Adult;30.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;47.40 €
+Adult;28.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Montly;Work event;Yes;Christmas;Whole cake;39.40 €
+Adult;64.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Wedding cake;Sporadic;Celebration;No;None;Wedding cake;75.20 €
+Adult;55.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;No;None;Whole cake;23.90 €
+Adult;23.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Nuts;Whole cake;Weekly;Celebration;Yes;Valentine's Day;Whole cake;
+Adult;49.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Work event;Yes;Fall;Whole cake;15.70 €
+Adult;57.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Slice;Daily;Gathering;No;None;Slice;5.00 €
+Kid;14.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Sprinkles;Cupcake;Monthly;Celebration;No;None;Cupcake;3.20 €
+Kid;7.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Cupcake;Weekly;Celebration;Yes;Valentine's Day;Cupcake;4.20 €
+Adult;21.0;Masculine;Red Velvet;Lemon curd;Ganache;No;None;Whole cake;Daily;Gathering;Yes;Halloween;Whole cake;20.80 €
+Adult;20.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Wedding cake;Monthly;Work event;Yes;Christmas;Wedding cake;49.70 €
+Adult;61.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Chocolate chips;Slice;Daily;Celebration;No;None;Slice;4.60 €
+Adult;24.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Wedding cake;Monthly;Celebration;Yes;Easter;Wedding cake;77.60 €
+Kid;8.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;No;;Cupcake;Weekly;Celebration;No;None;Cupcake;3.60 €
+Adult;50.0;Masculine;Red Velvet;Cream cheese;Chocolate glaze;Yes;Fruits;Whole cake;Daily;Wedding;No;None;Whole cake;37.30 €
+Kid;13.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Fruits;Slice;Daily;Snack;No;None;Slice;3.40 €
+Adult;55.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Monthly;Celebration;No;None;Slice;1.60 €
+Adult;24.0;Masculine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Slice;Sporadic;Gathering;No;None;Slice;1.90 €
+Adult;41.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Monthly;Work event;No;None;Slice;3.60 €
+Adult;30.0;Feminine;Red Velvet;Cream cheese;Chocolate glaze;Yes;Fruits;Whole cake;Weekly;Work event;No;None;Whole cake;27.00 €
+Kid;13.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Fruits;Slice;Daily;Snack;No;None;Slice;3.40 €
+Adult;25.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Work event;No;None;Whole cake;38.40 €
+Kid;8.0;Masculine;Chocolate;Chocolate ganache;Buttercream;Yes;Chocolate chips;Cupcake;Weekly;Celebration;No;None;Cupcake;3.70 €
+Adult;23.0;Feminine;Lemon;Lemon curd;Chocolate glaze;Yes;Edible flowers;Slice;Monthly;Wedding;Yes;Easter;Slice;1.80 €
+Adult;64.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Slice;Daily;Wedding;No;None;Slice;4.70 €
+Adult;32.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;80.20 €
+Adult;38.0;Masculine;;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Daily;Work event;No;None;Wedding cake;86.70 €
+Adult;54.0;Masculine;Carrot;Cream cheese;Ganache;No;None;Wedding cake;Daily;Gathering;Yes;Fall;Wedding cake;64.10 €
+Adult;36.0;Masculine;Lemon;Dulce de leche;Ganache;No;None;Slice;Weekly;Wedding;No;None;Slice;3.40 €
+Adult;59.0;Feminine;Lemon;Dulce de leche;Ganache;Yes;Edible flowers;Wedding cake;Daily;Celebration;Yes;Fall;Wedding cake;73.10 €
+Adult;36.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Weekly;Work event;No;None;Slice;4.90 €
+Adult;38.0;Masculine;;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Daily;Work event;No;None;Wedding cake;86.70 €
+Adult;36.0;Masculine;Carrot;Dulce de leche;Ganache;No;None;Slice;Daily;Gathering;No;None;Slice;1.20 €
+Adult;38.0;Masculine;Lemon;Dulce de leche;Ganache;No;None;Slice;Monthly;Work event;No;None;Slice;2.70 €
+Kid;5.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Slice;Monthly;Celebration;No;;Slice;5.80 €
+Adult;24.0;Feminine;Carrot;Lemon curd;Chocolate glaze;No;None;Slice;Weekly;Gathering;No;None;Slice;5.00 €
+Adult;44.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;38.00 €
+Kid;12.0;Masculine;Chocolate;True;Whipped cream;Yes;Chocolate chips;Slice;Weekly;Birthday;No;None;Slice;5.50 €
+Adult;38.0;Masculine;Lemon;Dulce de leche;Ganache;No;None;Slice;Monthly;Work event;No;None;Slice;2.70 €
+Adult;61.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Slice;Weekly;Wedding;No;None;Slice;3.60 €
+Kid;17.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;Sprinkles;Cupcake;Daily;Birthday;No;None;Cupcake;5.40 €
+Adult;55.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Celebration;Yes;Halloween;Whole cake;12.00 €
+Adult;61.0;Masculine;Lemon;Dulce de leche;Chocolate glaze;Yes;Sprinkles;Slice;Daily;Celebration;No;None;Slice;1.50 €
+Kid;16.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Edible flowers;Slice;Daily;Celebration;No;None;Slice;5.00 €
+Adult;35.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Whole cake;Daily;Gathering;No;None;Whole cake;18.50 €
+Kid;5.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Daily;Birthday;Yes;Halloween;Cupcake;5.90 €
+Adult;65.0;Masculine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Nuts;Slice;Daily;Work event;Yes;Halloween;Slice;2.70 €
+;31.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Work event;No;None;Whole cake;23.20 €
+Adult;49.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Chocolate chips;Slice;Monthly;Wedding;Yes;Valentine's Day;Slice;2.50 €
+Kid;11.0;Feminine;Chocolate;Strawberry jam;Whipped cream;Yes;Edible flowers;Cupcake;Weekly;Birthday;No;None;Cupcake;4.70 €
+Adult;64.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Slice;Daily;Work event;No;None;Slice;5.20 €
+Kid;17.0;Feminine;Chocolate;Chocolate ganache;Buttercream;No;None;Cupcake;Weekly;Birthday;No;None;Cupcake;3.80 €
+;29.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Weekly;Celebration;Yes;Easter;Wedding cake;43.80 €
+Adult;64.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Sporadic;Wedding;Yes;Valentine's Day;Slice;5.80 €
+Adult;50.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Slice;Weekly;Gathering;Yes;Christmas;Slice;4.30 €
+Kid;16.0;Masculine;Red Velvet;Chocolate ganache;Whipped cream;No;None;Cupcake;Monthly;Celebration;Yes;Christmas;Cupcake;3.60 €
+Adult;42.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Sporadic;Celebration;Yes;Easter;Slice;3.00 €
+Kid;12.0;Masculine;Chocolate;Strawberry jam;Buttercream;Yes;Edible flowers;Slice;Weekly;Celebration;Yes;Valentine's Day;Slice;3.40 €
+Adult;36.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Whole cake;Sporadic;Wedding;No;None;Whole cake;31.30 €
+Adult;45.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;No;None;Slice;Daily;Work event;Yes;Halloween;Slice;5.30 €
+;46.0;Masculine;Red Velvet;Lemon curd;Ganache;Yes;Nuts;Whole cake;Monthly;Celebration;Yes;Fall;Whole cake;11.80 €
+Adult;52.0;Feminine;Red Velvet;Lemon curd;Ganache;Yes;Edible flowers;Slice;Monthly;Wedding;No;None;Slice;5.80 €
+Kid;12.0;Masculine;Chocolate;Strawberry jam;Buttercream;Yes;Edible flowers;Slice;Weekly;Celebration;Yes;Valentine's Day;Slice;3.40 €
+Kid;6.0;Feminine;Chocolate;Strawberry jam;Buttercream;Yes;Fruits;Slice;Daily;Celebration;No;None;Slice;5.70 €
+Adult;47.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Slice;Weekly;Work event;No;None;Slice;5.40 €
+Adult;21.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Chocolate chips;Whole cake;Weekly;Work event;No;None;Whole cake;30.80 €
+Adult;31.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Sporadic;Work event;No;None;Whole cake;36.30 €
+Adult;25.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Work event;No;None;Whole cake;14.90 €
+Adult;21.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Chocolate chips;Slice;Sporadic;Gathering;No;None;Slice;3.90 €
+Adult;55.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;;Wedding cake;Daily;Work event;No;None;Wedding cake;47.90 €
+Adult;50.0;Masculine;Red Velvet;Cream cheese;Ganache;No;None;Whole cake;Monthly;Gathering;Yes;Valentine's Day;Whole cake;19.40 €
+Kid;17.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Weekly;Birthday;No;None;Cupcake;1.00 €
+Kid;12.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;;Nuts;Slice;Weekly;Snack;No;None;Slice;1.30 €
+Adult;43.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Celebration;No;None;Slice;6.00 €
+Adult;61.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Nuts;Slice;Sporadic;Wedding;No;None;Slice;1.90 €
+Adult;59.0;Feminine;Carrot;Lemon curd;Ganache;No;None;Whole cake;Monthly;Celebration;No;None;Whole cake;32.50 €
+Adult;57.0;Feminine;Carrot;Cream cheese;Chocolate glaze;Yes;Edible flowers;Whole cake;Monthly;Work event;No;None;Whole cake;17.30 €
+Adult;48.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Weekly;Celebration;No;None;Wedding cake;80.20 €
+Adult;47.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Sporadic;Celebration;Yes;Christmas;Whole cake;31.80 €
+Kid;8.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Slice;Daily;Snack;No;None;Slice;4.50 €
+Adult;65.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Daily;Work event;Yes;Valentine's Day;Wedding cake;98.30 €
+Adult;37.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Slice;Daily;Wedding;No;None;Slice;1.40 €
+Adult;35.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Sporadic;Work event;Yes;Christmas;Slice;2.10 €
+Adult;52.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Monthly;Work event;Yes;Halloween;Wedding cake;69.40 €
+Adult;21.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Chocolate chips;Whole cake;Sporadic;Work event;No;None;Whole cake;33.90 €
+Adult;55.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Work event;No;None;Whole cake;13.50 €
+Kid;12.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Sprinkles;Slice;Weekly;Birthday;Yes;Christmas;Slice;5.40 €
+Kid;15.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Monthly;Birthday;No;None;Slice;1.10 €
+Adult;48.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;Yes;Nuts;Whole cake;Weekly;Work event;Yes;Christmas;Whole cake;26.20 €
+Adult;43.0;Masculine;Carrot;Dulce de leche;Chocolate glaze;No;None;Whole cake;Weekly;Work event;No;None;Whole cake;30.90 €
+;36.0;Feminine;Carrot;Lemon curd;Ganache;No;None;Slice;Daily;Gathering;No;None;Slice;4.00 €
+Adult;36.0;Feminine;Carrot;Lemon curd;Chocolate glaze;No;None;Wedding cake;Sporadic;Celebration;No;None;Wedding cake;68.30 €
+Kid;8.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Slice;Weekly;Birthday;Yes;Valentine's Day;Slice;3.80 €
+Adult;35.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Daily;Wedding;No;None;Wedding cake;93.10 €
+Kid;9.0;Fem;Chocolate;Chocolate ganache;Whipped cream;No;None;Slice;Weekly;Birthday;No;;Slice;5.30 €
+Adult;37.0;Feminine;Lemon;Dulce de leche;Ganache;No;None;Whole cake;Monthly;Gathering;Yes;Fall;Whole cake;23.80 €
+Kid;5.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Cupcake;Weekly;Celebration;Yes;Easter;Cupcake;1.80 €
+Adult;25.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Nuts;Wedding cake;Weekly;Celebration;No;None;Wedding cake;90.20 €
+Adult;22.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Sporadic;Wedding;No;None;Whole cake;39.40 €
+Kid;14.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Cupcake;Weekly;Celebration;No;None;Cupcake;4.30 €
+Adult;41.0;Masculine;Lemon;Cream cheese;Chocolate glaze;No;None;Whole cake;Monthly;Celebration;No;None;Whole cake;19.50 €
+Adult;24.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;No;None;Whole cake;19.10 €
+Adult;52.0;Feminine;Red Velvet;Cream cheese;Ganache;Yes;Sprinkles;Whole cake;Monthly;Gathering;No;None;Whole cake;27.00 €
+Adult;50.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Gathering;Yes;Halloween;Wedding cake;70.30 €
+Adult;29.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Daily;Work event;No;None;Whole cake;10.20 €
+Adult;48.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;50.70 €
+Adult;21.0;Masculine;;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Monthly;Wedding;Yes;Easter;Wedding cake;89.00 €
+Adult;22.0;Masculine;Red Velvet;Dulce de leche;Ganache;No;None;Slice;Monthly;Celebration;No;None;Slice;4.10 €
+Adult;47.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Fruits;Whole cake;Weekly;Work event;No;None;Whole cake;21.30 €
+Adult;63.0;Feminine;Lemon;Lemon curd;Ganache;No;None;Wedding cake;Weekly;Gathering;No;None;Wedding cake;51.00 €
+Adult;36.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Daily;Work event;Yes;Easter;Whole cake;11.90 €
+Adult;39.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Monthly;Work event;No;None;Whole cake;27.50 €
+Adult;38.0;Feminine;Lemon;Lemon curd;Chocolate glaze;No;None;Wedding cake;Sporadic;Gathering;No;None;Wedding cake;88.50 €
+Adult;44.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Nuts;Wedding cake;Weekly;Wedding;No;None;Wedding cake;99.00 €
+Adult;55.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;Yes;Fruits;Wedding cake;Daily;Wedding;No;None;Wedding cake;77.70 €
+Adult;24.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Whole cake;Sporadic;Wedding;No;None;Whole cake;33.00 €
+Adult;26.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Nuts;Slice;Monthly;Gathering;No;None;Slice;5.60 €
+Kid;13.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Nuts;Cupcake;Daily;Snack;Yes;Valentine's Day;Cupcake;2.80 €
+Kid;10.0;Feminine;Red Velvet;Strawberry jam;Whipped cream;Yes;Fruits;Slice;Daily;Snack;No;None;Slice;2.90 €
+Adult;37.0;Masculine;Red Velvet;Cream cheese;Chocolate glaze;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;23.10 €
+Adult;42.0;Masculine;Red Velvet;Cream cheese;Ganache;No;None;Whole cake;Weekly;Work event;No;None;Whole cake;18.70 €
+Adult;56.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Whole cake;Daily;Work event;No;None;Whole cake;38.40 €
+Kid;14.0;Masculine;Chocolate;Chocolate ganache;Whipped cream;Yes;Chocolate chips;Slice;Weekly;Celebration;Yes;Christmas;Slice;5.70 €
+;40.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Sporadic;Wedding;No;None;Whole cake;36.50 €
+Adult;59.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;Yes;Sprinkles;Whole cake;Weekly;Celebration;Yes;Valentine's Day;Whole cake;18.50 €
+Adult;57.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Fruits;Wedding cake;Daily;Gathering;Yes;Easter;Wedding cake;56.50 €
+Adult;28.0;Masculine;Red Velvet;123;Cream cheese frosting;No;None;Slice;Monthly;Celebration;No;None;Slice;3.30 €
+Adult;65.0;Masc;Lemon;Cream cheese;Chocolate glaze;No;None;Whole cake;Weekly;Gathering;Yes;Halloween;Whole cake;15.20 €
+Adult;47.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Wedding cake;Monthly;Work event;No;None;Wedding cake;44.90 €
+Adult;40.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Monthly;Celebration;No;None;Slice;1.40 €
+Adult;22.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Sprinkles;Wedding cake;Weekly;Celebration;No;None;Wedding cake;98.20 €
+Adult;63.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Wedding cake;Daily;Gathering;No;None;Wedding cake;40.10 €
+Kid;16.0;Feminine;;Chocolate ganache;Buttercream;Yes;Chocolate chips;Slice;Daily;Birthday;Yes;Easter;Slice;4.20 €
+Kid;7.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;Edible flowers;Slice;Sporadic;Birthday;No;None;Slice;5.10 €
+Adult;23.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Wedding cake;Sporadic;Wedding;No;None;Wedding cake;57.30 €
+Kid;5.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Daily;Celebration;No;None;Cupcake;4.50 €
+Adult;40.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Monthly;Gathering;No;None;Whole cake;33.90 €
+Adult;36.0;Feminine;Red Velvet;Lemon curd;Ganache;Yes;Edible flowers;Slice;Weekly;Work event;No;None;Slice;3.40 €
+Adult;63.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;71.00 €
+Adult;53.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;Yes;Edible flowers;Whole cake;Sporadic;Work event;No;None;Whole cake;33.20 €
+Adult;34.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Slice;Monthly;Wedding;Yes;Halloween;Slice;2.40 €
+Kid;13.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Slice;Monthly;Celebration;No;None;Slice;3.80 €
+Adult;57.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Slice;Daily;Gathering;No;None;Slice;3.20 €
+Adult;26.0;Masculine;Red Velvet;Dulce de leche;Ganache;Yes;Fruits;Whole cake;Monthly;Wedding;No;None;Whole cake;35.10 €
+Kid;4.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Cupcake;Monthly;Birthday;No;None;Cupcake;1.20 €
+Adult;28.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Sporadic;Wedding;Yes;Christmas;Slice;4.60 €
+Adult;50.0;Feminine;Red Velvet;Dulce de leche;Ganache;No;None;Slice;Weekly;Wedding;No;None;Slice;1.90 €
+Adult;22.0;Masculine;Lemon;Cream cheese;Chocolate glaze;No;None;Slice;Sporadic;Work event;No;None;Slice;5.90 €
+Adult;25.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;Yes;Nuts;Whole cake;Monthly;Wedding;No;None;Whole cake;25.30 €
+;7.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Slice;Monthly;Snack;Yes;Halloween;Slice;2.70 €
+Adult;26.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;No;None;Whole cake;21.20 €
+Kid;14.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Cupcake;Monthly;Birthday;Yes;Christmas;Cupcake;2.60 €
+Adult;37.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Wedding cake;Daily;Celebration;No;None;Wedding cake;52.70 €
+Adult;23.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;Yes;Sprinkles;Wedding cake;Daily;Wedding;No;None;Wedding cake;66.60 €
+Kid;16.0;Masculine;Red Velvet;Strawberry jam;Buttercream;Yes;Sprinkles;Slice;Monthly;Snack;Yes;Fall;Slice;5.90 €
+Kid;12.0;Feminine;Chocolate;ok;Chocolate glaze;Yes;Nuts;Cupcake;Weekly;Celebration;No;None;Cupcake;4.00 €
+Adult;53.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Daily;Celebration;Yes;Easter;Whole cake;31.80 €
+Adult;65.0;Feminine;Lemon;Dulce de leche;Ganache;No;None;Slice;Daily;Work event;Yes;Christmas;Slice;4.80 €
+Adult;18.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Sprinkles;Wedding cake;Daily;Gathering;No;None;Wedding cake;45.50 €
+Kid;13.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Weekly;Celebration;No;None;Cupcake;4.20 €
+Adult;40.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Chocolate chips;Wedding cake;Weekly;Work event;No;None;Wedding cake;82.10 €
+Adult;45.0;Feminine;Red Velvet;Cream cheese;Chocolate glaze;No;None;Whole cake;Weekly;Work event;No;None;Whole cake;19.40 €
+Adult;37.0;Masculine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Weekly;Celebration;Yes;Christmas;Wedding cake;65.00 €
+Adult;40.0;Masculine;Lemon;Lemon curd;Ganache;;None;Whole cake;Daily;Work event;Yes;Fall;Whole cake;21.40 €
+Adult;41.0;Masculine;Lemon;Lemon curd;Chocolate glaze;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;70.80 €
+Adult;44.0;Masculine;Carrot;Lemon curd;Ganache;No;None;Slice;Daily;Work event;No;None;Slice;2.60 €
+Adult;59.0;Feminine;Red Velvet;Dulce de leche;Ganache;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;35.50 €
+;31.0;Feminine;Carrot;Cream cheese;Ganache;Yes;Edible flowers;Wedding cake;Weekly;Wedding;No;None;Wedding cake;46.20 €
+Adult;41.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Weekly;Gathering;Yes;Fall;Whole cake;17.70 €
+Adult;65.0;Feminine;Red Velvet;Cream cheese;Chocolate glaze;Yes;Chocolate chips;Whole cake;Sporadic;Work event;No;None;Whole cake;18.70 €
+Kid;16.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Slice;Monthly;Birthday;Yes;Easter;Slice;3.30 €
+Kid;15.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Slice;Monthly;Birthday;No;None;Slice;1.70 €
+Adult;61.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Work event;No;None;Slice;4.40 €
+Adult;47.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Fruits;Slice;Daily;Wedding;No;None;Slice;1.70 €
+Kid;7.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;Yes;Fruits;Slice;Weekly;Snack;Yes;Halloween;Slice;5.10 €
+Adult;61.0;Masculine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Slice;Weekly;Gathering;No;None;Slice;5.80 €
+Kid;8.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Slice;Weekly;Snack;Yes;Fall;Slice;2.40 €
+Adult;38.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Slice;Weekly;Celebration;No;None;Slice;3.80 €
+Kid;9.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Cupcake;Weekly;Celebration;No;None;Cupcake;3.10 €
+Kid;6.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Monthly;Snack;No;None;Slice;2.20 €
+Kid;17.0;Feminine;;Strawberry jam;Chocolate glaze;Yes;Nuts;Slice;Daily;Birthday;Yes;Fall;Slice;2.10 €
+Adult;58.0;Feminine;Carrot;Cream cheese;Chocolate glaze;No;None;Slice;Daily;Wedding;Yes;Fall;Slice;1.70 €
+Kid;4.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Monthly;Birthday;No;None;Slice;3.70 €
+Adult;26.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Wedding cake;Daily;Gathering;No;None;Wedding cake;82.10 €
+Kid;-3.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Nuts;Cupcake;Monthly;Birthday;No;None;Cupcake;3.20 €
+Adult;21.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;Yes;Halloween;Whole cake;20.00 €
+Adult;25.0;Masculine;Red Velvet;Cream cheese;Chocolate glaze;Yes;Fruits;Slice;Daily;Wedding;No;None;Slice;2.80 €
+Kid;5.0;Feminine;Red Velvet;Strawberry jam;Whipped cream;Yes;Nuts;Slice;Weekly;Birthday;No;None;Slice;5.30 €
+Adult;47.0;Masculine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Celebration;No;;Wedding cake;45.30 €
+Kid;10.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Slice;Daily;Snack;No;None;Slice;3.60 €
+;45.0;Masculine;Red Velvet;Dulce de leche;Chocolate glaze;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;14.20 €
+Adult;65.0;Feminine;Lemon;Lemon curd;Ganache;No;None;Slice;Daily;Celebration;No;None;Slice;2.20 €
+Kid;15.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Slice;Weekly;Birthday;No;None;Slice;1.40 €
+Adult;30.0;Feminine;Lemon;Lemon curd;Ganache;No;None;Whole cake;Weekly;Celebration;No;None;Whole cake;32.60 €
+Adult;59.0;Feminine;Red Velvet;Lemon curd;Ganache;No;None;Whole cake;Weekly;Work event;Yes;Easter;Whole cake;26.10 €
+Adult;42.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Slice;Weekly;Wedding;Yes;Halloween;Slice;3.70 €
+Adult;18.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Sporadic;Wedding;Yes;Fall;Wedding cake;53.90 €
+Adult;62.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;Yes;Chocolate chips;Wedding cake;Monthly;Wedding;No;None;Wedding cake;78.10 €
+Adult;44.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Sprinkles;Slice;Sporadic;Celebration;No;None;Slice;1.90 €
+Kid;5.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Cupcake;Monthly;Snack;No;None;Cupcake;1.60 €
+Kid;17.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Weekly;Celebration;Yes;Fall;Cupcake;3.30 €
+Kid;17.0;Masculine;Red Velvet;Chocolate ganache;Whipped cream;Yes;Chocolate chips;Slice;Daily;Birthday;No;None;Slice;4.10 €
+Kid;6.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Slice;Daily;Celebration;No;None;Slice;4.70 €
+Adult;33.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Weekly;Wedding;No;None;Slice;1.30 €
+Adult;19.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Wedding cake;Daily;Wedding;Yes;Christmas;Wedding cake;69.20 €
+Kid;15.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Cupcake;Weekly;Celebration;No;None;Cupcake;2.50 €
+Adult;55.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Celebration;No;None;Wedding cake;75.10 €
+Adult;26.0;Feminine;Red Velvet;Lemon curd;Ganache;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;50.70 €
+Adult;62.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Wedding cake;Weekly;Celebration;Yes;Valentine's Day;Wedding cake;60.60 €
+Adult;50.0;Masculine;Lemon;Lemon curd;Ganache;Yes;Edible flowers;Wedding cake;Weekly;Celebration;Yes;Easter;Wedding cake;68.40 €
+Adult;19.0;Masculine;Lemon;Cream cheese;Chocolate glaze;Yes;Fruits;Slice;Sporadic;Work event;Yes;Halloween;Slice;2.30 €
+;61.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Fruits;Slice;Monthly;Celebration;Yes;Fall;Slice;5.50 €
+Adult;37.0;Feminine;Carrot;Lemon curd;Ganache;Yes;Sprinkles;Whole cake;Weekly;Work event;No;;Whole cake;18.10 €
+Kid;14.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Sprinkles;Slice;Monthly;Celebration;No;None;Slice;4.40 €
+Adult;54.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;25.00 €
+Kid;17.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Edible flowers;Slice;Weekly;Celebration;No;None;Slice;5.60 €
+Kid;16.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Nuts;Cupcake;Weekly;Snack;No;None;Cupcake;4.10 €
+Kid;11.0;Feminine;Chocolate;Chocolate ganache;Buttercream;No;None;Cupcake;Daily;Celebration;No;None;Cupcake;1.20 €
+Adult;59.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Edible flowers;Whole cake;Weekly;Celebration;Yes;Christmas;Whole cake;18.90 €
+Kid;10.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Cupcake;Weekly;Birthday;No;None;Cupcake;Free
+Adult;19.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Sporadic;Celebration;No;None;Wedding cake;68.10 €
+Adult;27.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Work event;No;None;Whole cake;26.10 €
+Kid;13.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Cupcake;Daily;Snack;No;None;Cupcake;1.20 €
+Kid;9.0;Masculine;Chocolate;Chocolate ganache;;Yes;Edible flowers;Cupcake;Daily;Birthday;No;None;Cupcake;4.50 €
+Adult;64.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Sporadic;Work event;No;None;Slice;4.30 €
+Adult;27.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Chocolate chips;Slice;Weekly;Wedding;No;None;Slice;1.70 €
+Kid;8.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Slice;Weekly;Snack;No;None;Slice;1.00 €
+Kid;8.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Cupcake;Daily;Celebration;No;None;Cupcake;3.50 €
+Kid;8.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Slice;Weekly;Birthday;No;None;Slice;1.80 €
+Adult;42.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;Yes;Chocolate chips;Whole cake;Daily;Work event;No;;Whole cake;27.70 €
+Kid;6.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;No;None;Slice;Monthly;Snack;Yes;Christmas;Slice;1.30 €
+Adult;33.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Monthly;Celebration;Yes;Halloween;Wedding cake;93.40 €
+Adult;51.0;Masculine;Lemon;Dulce de leche;Ganache;No;;Wedding cake;Weekly;Work event;Yes;Valentine's Day;Wedding cake;95.60 €
+Kid;12.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Daily;Celebration;Yes;Fall;Cupcake;4.20 €
+Adult;54.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;No;None;Slice;Weekly;Gathering;Yes;Halloween;Slice;€
+Kid;15.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Cupcake;Weekly;Celebration;No;None;Cupcake;1.80 €
+Kid;15.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Sporadic;Celebration;No;None;Cupcake;3.20 €
+Adult;55.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Slice;Daily;Celebration;Yes;Halloween;Slice;3.80 €
+Adult;49.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Daily;Work event;No;None;Wedding cake;40.10 €
+Adult;39.0;Masculine;Lemon;Lemon curd;Ganache;No;None;Slice;Weekly;Celebration;No;None;Slice;3.20 €
+Kid;17.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Slice;Daily;Snack;Yes;Christmas;Slice;2.20 €
+Adult;54.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;38.70 €
+Adult;29.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;Yes;Fruits;Slice;Daily;Wedding;Yes;;Slice;3.30 €
+Adult;43.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;22.60 €
+Kid;14.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Slice;Weekly;Celebration;No;None;Slice;1.90 €
+Adult;21.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Gathering;No;;Wedding cake;72.20 €
+Adult;26.0;Fem;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Slice;Daily;Wedding;Yes;Valentine's Day;Slice;2.90 €
+Adult;37.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Chocolate chips;Slice;Daily;Gathering;Yes;Easter;Slice;4.20 €
+Kid;15.0;Feminine;;True;Whipped cream;No;None;Cupcake;Daily;Snack;Yes;Halloween;Cupcake;1.10 €
+Kid;16.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Slice;Monthly;Birthday;Yes;Christmas;Slice;3.50 €
+Kid;5.0;Masculine;Chocolate;Chocolate ganache;Buttercream;Yes;Nuts;Cupcake;Weekly;Celebration;No;None;Cupcake;3.70 €
+;59.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;Yes;Nuts;Slice;Sporadic;Celebration;No;;Slice;1.00 €
+Adult;33.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Whole cake;Monthly;Gathering;Yes;Christmas;Whole cake;17.60 €
+Adult;25.0;Feminine;Carrot;Lemon curd;Chocolate glaze;Yes;Nuts;Slice;Daily;Gathering;No;None;Slice;4.20 €
+Kid;12.0;Masculine;Red Velvt;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Monthly;Celebration;No;None;Slice;1.90 €
+Adult;50.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Work event;Yes;Halloween;Whole cake;31.20 €
+Adult;51.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Wedding;No;None;Slice;4.40 €
+Adult;33.0;Feminine;Carrot;Cream cheese;Ganache;Yes;Sprinkles;Wedding cake;Daily;Wedding;No;None;Wedding cake;93.00 €
+Kid;15.0;Masculine;Red Velvet;Chocolate ganache;Buttercream;No;None;Slice;Weekly;Birthday;No;None;Slice;3.30 €
+Adult;48.0;Masculine;Red Velvet;Cream cheese;Chocolate glaze;No;None;Slice;Daily;Gathering;No;None;Slice;3.20 €
+Adult;46.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;;Nuts;Wedding cake;Daily;Gathering;Yes;Halloween;Wedding cake;49.90 €
+Adult;30.0;Masculine;Red Velvet;Cream cheese;Ganache;Yes;Nuts;Whole cake;Weekly;Gathering;No;None;Whole cake;10.90 €
+Adult;30.0;Feminine;Carrot;Dulce de leche;Chocolate glaze;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;30.90 €
+Adult;60.0;Masculine;Lemon;Lemon curd;Chocolate glaze;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;84.50 €
+Adult;32.0;Feminine;Carrot;Lemon curd;Ganache;No;None;Slice;Daily;Gathering;No;None;Slice;1.40 €
+Adult;23.0;Feminine;;Dulce de leche;Ganache;No;None;Wedding cake;Daily;Wedding;No;None;Wedding cake;46.00 €
+Adult;24.0;Masculine;Lemon;Dulce de leche;Ganache;No;None;Wedding cake;Weekly;Gathering;Yes;Christmas;Wedding cake;49.80 €
+Adult;36.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Slice;Daily;Work event;Yes;Fall;Slice;2.80 €
+Adult;33.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Sporadic;Wedding;No;;Wedding cake;47.40 €
+Kid;6.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;Nuts;Slice;Daily;Snack;No;None;Slice;1.00 €
+Kid;15.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Daily;Celebration;No;None;Slice;4.70 €
+Adult;43.0;Feminine;Lemon;Lemon curd;Chocolate glaze;Yes;Nuts;Wedding cake;Monthly;Celebration;No;None;Wedding cake;64.20 €
+Adult;47.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Daily;Gathering;Yes;Fall;Wedding cake;51.40 €
+Kid;8.0;Masculine;Chocolate;Strawberry jam;Whipped cream;No;None;Cupcake;Weekly;Celebration;No;None;Cupcake;4.80 €
+Adult;52.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Wedding cake;Sporadic;Celebration;No;None;Wedding cake;43.50 €
+Adult;59.0;Feminine;Carrot;Dulce de leche;Ganache;Yes;Nuts;Whole cake;Monthly;Gathering;No;None;Whole cake;26.50 €
+Adult;49.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Wedding cake;Daily;Work event;Yes;;Wedding cake;71.90 €
+Adult;59.0;Masculine;Lemon;Lemon curd;Chocolate glaze;No;None;Whole cake;Sporadic;Work event;No;None;Whole cake;25.00 €
+Kid;8.0;Masculine;Chocolate;Chocolate ganache;Buttercream;Yes;Edible flowers;Cupcake;Weekly;Snack;Yes;Christmas;Cupcake;1.40 €
+Kid;8.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Slice;Daily;Snack;No;None;Slice;3.70 €
+Kid;7.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Cupcake;Weekly;Snack;Yes;Christmas;Cupcake;5.90 €
+Adult;24.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Wedding;No;None;Slice;3.10 €
+Adult;54.0;Masculine;Red Velvet;Cream cheese;Chocolate glaze;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;64.30 €
+Adult;43.0;Feminine;Carrot;Cream cheese;Chocolate glaze;Yes;Chocolate chips;Slice;Monthly;Work event;Yes;;Slice;3.40 €
+Kid;16.0;Feminine;;Chocolate ganache;Whipped cream;No;None;Slice;Monthly;Celebration;No;None;Slice;2.60 €
+Kid;10.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;Sprinkles;Slice;Weekly;Birthday;No;None;Slice;1.90 €
+Adult;46.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Gathering;No;None;Slice;2.60 €
+Adult;46.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Gathering;Yes;Halloween;Whole cake;25.60 €
+Adult;60.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Daily;Work event;No;None;Slice;4.80 €
+Kid;14.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Cupcake;Monthly;Snack;No;None;Cupcake;4.50 €
+Adult;35.0;Masculine;Red Velvet;Cream cheese;Chocolate glaze;Yes;Edible flowers;Whole cake;Monthly;Celebration;No;None;Whole cake;15.20 €
+Kid;11.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Nuts;Slice;Daily;Birthday;No;None;Slice;6.00 €
+Adult;48.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;;None;Whole cake;Weekly;Work event;No;None;Whole cake;24.50 €
+Adult;35.0;Masculine;Lemon;Lemon curd;Ganache;No;None;Slice;Daily;Wedding;No;None;Slice;4.20 €
+Adult;45.0;Feminine;Carrot;Lemon curd;Ganache;No;None;Wedding cake;Sporadic;Work event;No;None;Wedding cake;59.50 €
+Kid;13.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Slice;Sporadic;Birthday;No;None;Slice;3.60 €
+Kid;8.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Slice;Weekly;Celebration;No;None;Slice;5.90 €
+Kid;12.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Cupcake;Daily;Celebration;No;None;Cupcake;3.40 €
+Adult;65.0;Feminine;Red Velvet;Dulce de leche;Ganache;No;None;Wedding cake;Daily;Work event;No;None;Wedding cake;92.90 €
+Kid;16.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Cupcake;Weekly;Celebration;No;None;Cupcake;2.60 €
+Adult;64.0;Masculine;Red Velvet;Cream cheese;Ganache;No;None;Whole cake;Monthly;Wedding;No;None;Whole cake;15.90 €
+Adult;29.0;Masculine;Lemon;Cream cheese;Chocolate glaze;Yes;Nuts;Wedding cake;Weekly;Wedding;No;None;Wedding cake;72.20 €
+Adult;40.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Wedding cake;Weekly;Gathering;No;None;Wedding cake;60.60 €
+Adult;58.0;Masculine;Carrot;Cream cheese;Ganache;No;None;Wedding cake;Daily;Celebration;No;None;Wedding cake;66.60 €
+Adult;51.0;Feminine;Red Velvet;Cream cheese;Chocolate glaze;Yes;Nuts;Slice;Daily;Gathering;No;None;Slice;3.60 €
+Kid;17.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;;None;Cupcake;Daily;Snack;No;None;Cupcake;2.30 €
+Adult;19.0;Masculine;Red Velvet;Lemon curd;Cream cheese frosting;Yes;Fruits;Slice;Weekly;Wedding;No;None;Slice;5.60 €
+Kid;12.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Cupcake;Daily;Birthday;Yes;Christmas;Cupcake;2.00 €
+Adult;20.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Daily;Gathering;No;None;Whole cake;27.80 €
+Adult;18.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Fruits;Wedding cake;Daily;Wedding;No;None;Wedding cake;48.90 €
+Kid;9.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Chocolate chips;Slice;Daily;Birthday;No;None;Slice;1.10 €
+Kid;5.0;Masculine;Chocolate;Strawberry jam;Whipped cream;Yes;Sprinkles;Cupcake;Montly;Snack;No;None;Cupcake;1.30 €
+Adult;40.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;Yes;Christmas;Whole cake;37.30 €
+Adult;61.0;Feminine;Carrot;Cream cheese;Chocolate glaze;No;None;Wedding cake;Daily;Wedding;Yes;Halloween;Wedding cake;76.40 €
+Adult;23.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;;None;Whole cake;Monthly;Wedding;No;None;Whole cake;35.20 €
+Kid;14.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Cupcake;Weekly;Snack;No;None;Cupcake;4.00 €
+Adult;28.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Sprinkles;Slice;Monthly;Celebration;No;None;Slice;3.40 €
+Kid;13.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Sprinkles;Slice;Daily;Celebration;No;None;Slice;
+Kid;9.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;Sprinkles;Slice;Daily;Snack;No;None;Slice;4.10 €
+Kid;15.0;Feminine;Red Velvet;Chocolate ganache;Whipped cream;Yes;Edible flowers;Slice;Weekly;Celebration;No;None;Slice;2.20 €
+Adult;999.0;Feminine;Lemon;Cream cheese;Ganache;Yes;Edible flowers;Wedding cake;Monthly;Gathering;Yes;Easter;Wedding cake;67.40 €
+Kid;15.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Nuts;Cupcake;Daily;Birthday;No;None;Cupcake;4.90 €
+Kid;8.0;Feminine;Chocolate;Chocolate ganache;Buttercream;No;None;Cupcake;Weekly;Celebration;No;None;Cupcake;1.20 €
+Adult;26.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;Yes;Fruits;Slice;Daily;Gathering;No;None;Slice;5.30 €
+Adult;21.0;Feminine;Red Velvet;Cream cheese;Ganache;Yes;Edible flowers;Wedding cake;Daily;Work event;No;None;Wedding cake;69.80 €
+Adult;26.0;Feminine;;Cream cheese;Ganache;No;None;Wedding cake;Daily;Gathering;Yes;Easter;Wedding cake;68.80 €
+Adult;40.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;26.90 €
+Kid;7.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Slice;Daily;Snack;No;None;Slice;5.70 €
+Adult;33.0;Masculine;Lemon;Dulce de leche;Chocolate glaze;Yes;Fruits;Wedding cake;Weekly;Work event;No;None;Wedding cake;59.90 €
+Adult;24.0;Feminine;Carrot;Cream cheese;Chocolate glaze;Yes;Edible flowers;Wedding cake;Weekly;Celebration;No;;Wedding cake;96.50 €
+Kid;11.0;Feminine;Red Velvet;Strawberry jam;Buttercream;No;None;Cupcake;Spordic;Celebration;No;None;Cupcake;4.90 €
+Adult;63.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Whole cake;Monthly;Gathering;No;None;Whole cake;30.80 €
+Kid;13.0;Masculine;Red Velvet;Strawberry jam;Buttercream;Yes;Nuts;Cupcake;Weekly;Snack;No;None;Cupcake;4.30 €
+Kid;8.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Edible flowers;Slice;Sporadic;Celebration;No;None;Slice;4.10 €
+Adult;23.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;Yes;Fruits;Slice;Weekly;Gathering;Yes;Halloween;Slice;4.30 €
+Kid;11.0;Masculine;Chocolate;Chocolate ganache;Buttercream;No;None;Slice;Daily;Birthday;No;None;Slice;4.90 €
+Adult;48.0;Feminine;Red Velvet;Lemon curd;Chocolate glaze;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;53.50 €
+Adult;47.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Gathering;Yes;Halloween;Whole cake;21.70 €
+Adult;48.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Whole cake;Weekly;Celebration;Yes;Halloween;Whole cake;17.10 €
+Kid;9.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Cupcake;Daily;Snack;No;None;Cupcake;3.60 €
+Adult;48.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Slice;Daily;Celebration;No;None;Slice;3.50 €
+Adult;33.0;Masculine;Carrot;Cream cheese;Ganache;No;None;Slice;Sporadic;Celebration;No;None;Slice;2.30 €
+Adult;65.0;Masculine;Carrot;Dulce de leche;;Yes;Chocolate chips;Wedding cake;Monthly;Gathering;No;None;Wedding cake;95.60 €
+Adult;35.0;Feminine;Lemon;Cream cheese;Chocolate glaze;Yes;Edible flowers;Whole cake;Weekly;Work event;Yes;Easter;Whole cake;35.80 €
+Adult;28.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Slice;Monthly;Work event;Yes;Fall;Slice;2.60 €
+Kid;5.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Daily;Celebration;No;None;Cupcake;3.00 €
+Adult;55.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;;Slice;Weekly;Wedding;No;None;Slice;2.30 €
+Adult;21.0;Masculine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Daily;Wedding;No;None;Wedding cake;74.00 €
+Adult;36.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;36.90 €
+Kid;10.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Slice;Daily;Birthday;No;None;Slice;3.00 €
+Kid;15.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;Chocolate chips;Slice;Weekly;Celebration;No;None;Slice;4.90 €
+Adult;33.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Whole cake;Weekly;Celebration;No;;Whole cake;23.50 €
+Kid;6.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Cupcake;Daily;Birthday;No;None;Cupcake;5.40 €
+Adult;33.0;Feminine;Lemon;Lemon curd;Chocolate glaze;No;None;Slice;Weekly;Work event;No;None;Slice;4.00 €
+Kid;8.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Daily;Celebration;No;None;Cupcake;5.80 €
+Adult;54.0;Masculine;Red Velvet;Cream cheese;Ganache;Yes;Fruits;Wedding cake;Monthly;Wedding;No;None;Wedding cake;76.30 €
+Adult;39.0;Feminine;Red Velvet;Lemon curd;Chocolate glaze;No;None;Whole cake;Monthly;Work event;No;None;Whole cake;10.40 €
+Adult;24.0;Feminine;Carrot;Cream cheese;Chocolate glaze;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;28.20 €
+Adult;50.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Slice;Weekly;Gathering;No;None;Slice;5.00 €
+Adult;46.0;Masculine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Nuts;Whole cake;Weekly;Celebration;No;None;Whole cake;20.20 €
+Adult;27.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Sporadic;Celebration;No;None;Wedding cake;89.50 €
+Adult;21.0;Feminine;Lemon;Cream cheese;Ganache;Yes;Fruits;Whole cake;Weekly;Celebration;Yes;Halloween;Whole cake;27.50 €
+Adult;52.0;Masculine;Lemon;Dulce de leche;Ganache;Yes;Edible flowers;Wedding cake;Monthly;Gathering;No;None;Wedding cake;74.70 €
+Adult;23.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Wedding cake;Weekly;Gathering;No;None;Wedding cake;45.30 €
+Adult;61.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Wedding cake;Monthly;Wedding;No;None;Wedding cake;74.40 €
+Adult;64.0;Masculine;Lemon;Dulce de leche;Chocolate glaze;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;30.20 €
+Adult;46.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;Yes;Sprinkles;Whole cake;Weekly;Wedding;Yes;Easter;Whole cake;20.70 €
+Kid;17.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Fruits;Cupcake;Monthly;Snack;No;None;Cupcake;5.40 €
+Adult;43.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Sporadic;Wedding;Yes;Easter;Whole cake;20.10 €
+Adult;38.0;Masculine;Carrot;Cream cheese;Ganache;No;None;Slice;Daily;Wedding;Yes;Christmas;Slice;2.50 €
+Adult;43.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Slice;Daily;Gathering;No;None;Slice;2.80 €
+Adult;65.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Celebration;Yes;Easter;Slice;5.50 €
+Adult;34.0;Feminine;Carrot;Lemon curd;Ganache;No;None;Wedding cake;Daily;Gathering;No;None;Wedding cake;46.80 €
+Adult;18.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;79.20 €
+Adult;51.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Whole cake;Weekly;Work event;Yes;Easter;Whole cake;21.10 €
+Adult;41.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Daily;Work event;No;None;Wedding cake;48.40 €
+Kid;16.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Weekly;Celebration;No;None;Slice;2.00 €
+Adult;27.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Gathering;No;None;Wedding cake;99.60 €
+Kid;17.0;Feminine;Chocolate;True;Chocolate glaze;Yes;Fruits;Cupcake;Weekly;Snack;Yes;Halloween;Cupcake;1.50 €
+Kid;16.0;Feminine;Red Velvet;Chocolate ganache;Whipped cream;Yes;Nuts;Cupcake;Weekly;Snack;No;None;Cupcake;3.50 €
+Adult;35.0;Masculine;Carrot;Cream cheese;Ganache;No;None;Whole cake;Monthly;Gathering;Yes;Easter;Whole cake;24.80 €
+Adult;29.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;No;None;Slice;Monthly;Gathering;Yes;Easter;Slice;2.60 €
+Kid;5.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Edible flowers;Slice;Daily;Snack;Yes;Valentine's Day;Slice;3.30 €
+Kid;15.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Daily;Snack;No;None;Cupcake;2.70 €
+Kid;16.0;Masculine;;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Monthly;Celebration;Yes;Christmas;Slice;5.90 €
+Kid;12.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Edible flowers;Slice;Weekly;Celebration;No;None;Slice;3.40 €
+Adult;54.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Celebration;No;None;Slice;5.10 €
+Adult;54.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Slice;Sporadic;Celebration;Yes;Christmas;Slice;2.60 €
+Adult;29.0;Masculine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Slice;Weekly;Celebration;No;None;Slice;5.80 €
+Kid;9.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Nuts;Cupcake;Weekly;Birthday;Yes;Valentine's Day;Cupcake;3.10 €
+Adult;27.0;Feminine;Carrot;Cream cheese;Chocolate glaze;No;None;Wedding cake;Daily;Work event;No;None;Wedding cake;88.80 €
+Adult;55.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Celebration;Yes;Christmas;Whole cake;17.40 €
+Adult;60.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Monthly;Celebration;No;None;Wedding cake;54.40 €
+Adult;63.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Gathering;No;None;Wedding cake;49.60 €
+Kid;4.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Slice;Daily;Snack;No;None;Slice;4.40 €
+Kid;10.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Slice;Weekly;Birthday;Yes;Halloween;Slice;5.70 €
+Adult;48.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Celebration;No;None;Slice;5.00 €
+Adult;34.0;Feminine;Carrot;Lemon curd;;No;None;Wedding cake;Daily;Gathering;Yes;Halloween;Wedding cake;63.70 €
+Adult;30.0;Masculine;Lemon;Cream cheese;Chocolate glaze;No;None;Slice;Weekly;Work event;No;None;Slice;2.30 €
+Kid;17.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Weekly;Snack;No;None;Cupcake;1.20 €
+Adult;32.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Sporadic;Wedding;No;None;Wedding cake;51.60 €
+Adult;55.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Slice;Daily;Work event;No;None;Slice;4.20 €
+Adult;32.0;Feminine;;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Weekly;Gathering;Yes;Fall;Whole cake;23.30 €
+Kid;5.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Slice;Monthly;Celebration;No;None;Slice;3.10 €
+Adult;51.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;34.50 €
+Kid;12.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Slice;Weekly;Snack;Yes;Halloween;Slice;2.00 €
+Adult;50.0;Masculine;Lemon;Lemon curd;Ganache;No;None;Wedding cake;Weekly;Celebration;No;None;Wedding cake;90.80 €
+Adult;55.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Wedding cake;Sporadic;Gathering;No;None;Wedding cake;63.00 €
+Kid;9.0;Masculine;;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Cupcake;Daily;Celebration;No;;Cupcake;2.50 €
+Kid;17.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Slice;Weekly;Celebration;No;None;Slice;4.20 €
+Adult;28.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;Yes;Edible flowers;Slice;Weekly;Work event;No;None;Slice;1.30 €
+Kid;4.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Cupcake;Daily;Snack;Yes;Christmas;Cupcake;1.20 €
+Kid;10.0;Masculine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Nuts;Cupcake;Sporadic;Birthday;No;None;Cupcake;4.20 €
+Adult;34.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Slice;Weekly;Gathering;Yes;Valentine's Day;Slice;5.20 €
+Adult;57.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;;Whole cake;Daily;Gathering;Yes;Easter;Whole cake;28.60 €
+Adult;51.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Work event;No;None;Whole cake;22.50 €
+Adult;36.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Slice;Weekly;Celebration;Yes;Christmas;Slice;5.10 €
+Adult;45.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Nuts;Slice;Weekly;Wedding;No;None;Slice;4.40 €
+Adult;39.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Monthly;Work event;Yes;Fall;Whole cake;23.20 €
+Kid;13.0;Feminine;Red Velvet;Strawberry jam;Buttercream;Yes;Nuts;Cupcake;Weekly;Snack;No;None;Cupcake;3.20 €
+Kid;9.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;Yes;Sprinkles;Slice;Daily;Birthday;Yes;Halloween;Slice;5.20 €
+Adult;40.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Work event;No;None;Whole cake;34.00 €
+Adult;24.0;Masculine;Red Velvet;ok;;No;None;Slice;Sporadic;Gathering;No;None;Slice;2.20 €
+Kid;15.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Slice;Daily;Celebration;No;None;Slice;5.00 €
+Kid;15.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Cupcake;Weekly;Celebration;Yes;Halloween;Cupcake;2.60 €
+Adult;63.0;Masculine;Lemon;Lemon curd;Ganache;No;None;Slice;Weekly;Gathering;No;None;Slice;3.40 €
+Adult;21.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;;None;Whole cake;Sporadic;Celebration;No;None;Whole cake;16.40 €
+Adult;58.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Wedding cake;Sporadic;Celebration;No;None;Wedding cake;45.80 €
+Kid;4.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;Fruits;Slice;Daily;Snack;Yes;Valentine's Day;Slice;5.50 €
+Adult;43.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Monthly;Work event;No;None;Wedding cake;70.50 €
+Adult;51.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Celebration;No;None;Whole cake;34.50 €
+Adult;43.0;Feminine;Lemon;Lemon curd;Ganache;Yes;Edible flowers;Whole cake;Weekly;Wedding;No;None;Whole cake;30.00 €
+Adult;28.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;Yes;Fruits;Slice;Daily;Wedding;Yes;Valentine's Day;Slice;2.70 €
+Kid;7.0;Masculine;Chocolate;Chocolate ganache;Buttercream;Yes;Nuts;Slice;Weekly;Celebration;No;None;Slice;2.60 €
+Adult;61.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Wedding cake;Weekly;Wedding;Yes;Halloween;Wedding cake;52.00 €
+Adult;58.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Whole cake;Daily;Gathering;No;None;Whole cake;38.90 €
+Kid;10.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Daily;Celebration;No;None;Slice;2.10 €
+Adult;43.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Work event;Yes;Christmas;Wedding cake;62.20 €
+Adult;18.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Gathering;Yes;;Wedding cake;85.80 €
+Adult;50.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Slice;Monthly;Wedding;No;None;Slice;1.50 €
+Kid;5.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Weekly;Celebration;Yes;Valentine's Day;Slice;2.30 €
+Kid;8.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Cupcake;Daily;Snack;No;None;Cupcake;5.20 €
+Kid;11.0;Feminine;Chocolate;Strawberry jam;Whipped cream;Yes;Edible flowers;Slice;Daily;Celebration;Yes;Valentine's Day;Slice;5.50 €
+Adult;20.0;Feminine;Carrot;Dulce de leche;Chocolate glaze;Yes;Fruits;Whole cake;Weekly;Wedding;No;None;Whole cake;19.60 €
+Adult;64.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Sporadic;Wedding;Yes;Easter;Slice;2.10 €
+Adult;63.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Sporadic;Gathering;No;None;Whole cake;18.10 €
+Kid;6.0;Feminine;Chocolate;Strawberry jam;Buttercream;Yes;Chocolate chips;Slice;Weekly;Snack;No;None;Slice;2.10 €
+Adult;36.0;Masculine;Lemon;Cream cheese;Chocolate glaze;Yes;;Slice;Monthly;Gathering;Yes;Christmas;Slice;4.80 €
+Adult;33.0;Feminine;Carrot;Cream cheese;Ganache;Yes;Edible flowers;Whole cake;Weekly;Wedding;No;None;Whole cake;16.50 €
+Adult;45.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Wedding cake;Weekly;Gathering;No;None;Wedding cake;44.20 €
+Adult;61.0;Feminine;Carrot;Lemon curd;Chocolate glaze;No;None;Wedding cake;Weekly;Gathering;No;None;Wedding cake;41.30 €
+Adult;60.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;No;None;Whole cake;Sporadic;Celebration;No;None;Whole cake;16.60 €
+Adult;44.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Celebration;No;None;Slice;5.10 €
+Kid;11.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Monthly;Celebration;No;None;Cupcake;3.50 €
+Adult;57.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Work event;Yes;Valentine's Day;Whole cake;21.60 €
+Adult;37.0;Masculine;Lemon;Dulce de leche;Chocolate glaze;No;None;Wedding cake;Monthly;Gathering;No;None;Wedding cake;63.50 €
+Adult;53.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Slice;Daily;Gathering;No;None;Slice;3.10 €
+Kid;7.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Cupcake;Weekly;Snack;No;None;Cupcake;5.10 €
+Adult;46.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Gathering;No;None;Whole cake;25.00 €
+Adult;28.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;Yes;Fruits;Wedding cake;Monthly;Wedding;Yes;Halloween;Wedding cake;94.00 €
+Adult;38.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;42.40 €
+Adult;38.0;Feminine;Red Velvet;ok;Cream cheese frosting;Yes;Nuts;Wedding cake;Daily;Wedding;No;None;Wedding cake;43.80 €
+Adult;33.0;Masculine;Carrot;Cream cheese;Ganache;No;None;Slice;Weekly;Gathering;No;None;Slice;2.00 €
+Adult;58.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Wedding;Yes;Easter;Whole cake;22.80 €
+Kid;9.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;Yes;Chocolate chips;Slice;Daily;Snack;Yes;Halloween;Slice;5.30 €
+Adult;22.0;Feminine;Red Velvet;Cream cheese;Chocolate glaze;No;None;Whole cake;Monthly;Gathering;Yes;Valentine's Day;Whole cake;25.30 €
+Adult;57.0;Masculine;Carrot;Cream cheese;Chocolate glaze;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;78.00 €
+Adult;35.0;Masculine;;Cream cheese;Chocolate glaze;Yes;Nuts;Slice;Monthly;Wedding;Yes;Christmas;Slice;4.20 €
+Adult;47.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Nuts;Wedding cake;Weekly;Celebration;No;None;Wedding cake;57.80 €
+Adult;62.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Chocolate chips;Wedding cake;Daily;Wedding;No;None;Wedding cake;96.00 €
+Kid;15.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Weekly;Birthday;Yes;Valentine's Day;Slice;1.40 €
+Adult;42.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Wedding cake;Sporadic;Celebration;No;None;Wedding cake;96.30 €
+Adult;39.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Nuts;Slice;Weekly;Gathering;No;None;Slice;4.00 €
+Adult;26.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;Yes;Fruits;Slice;Monthly;Gathering;No;None;Slice;5.60 €
+Adult;37.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Fruits;Whole cake;Weekly;Wedding;Yes;Valentine's Day;Whole cake;30.60 €
+Adult;32.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Slice;Daily;Celebration;Yes;Easter;Slice;5.10 €
+Adult;21.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;Yes;Sprinkles;Whole cake;Weekly;Celebration;No;None;Whole cake;12.40 €
+Kid;6.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Slice;Weekly;Snack;No;None;Slice;1.20 €
+Kid;15.0;Masculine;Chocolate;Strawberry jam;Buttercream;Yes;Sprinkles;Cupcake;Weekly;Celebration;Yes;Christmas;Cupcake;3.60 €
+Adult;44.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Wedding cake;Monthly;Wedding;No;None;Wedding cake;57.30 €
+Adult;41.0;Masculine;Red Velvet;Cream cheese;Chocolate glaze;Yes;Sprinkles;Wedding cake;Daily;Celebration;No;None;Wedding cake;55.50 €
+Adult;29.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Monthly;Work event;No;None;Slice;3.10 €
+Adult;52.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Whole cake;Sporadic;Work event;No;None;Whole cake;26.70 €
+Kid;12.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;Edible flowers;Cupcake;Daily;Celebration;No;None;Cupcake;2.90 €
+Adult;49.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Fruits;Slice;Weekly;Gathering;No;None;Slice;2.30 €
+Kid;10.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;;Slice;Weekly;Celebration;Yes;Easter;Slice;1.40 €
+Kid;14.0;Masculine;Chocolate;Strawberry jam;Buttercream;Yes;Edible flowers;Cupcake;Daily;Snack;No;None;Cupcake;3.90 €
+Kid;14.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Slice;Weekly;Birthday;Yes;Halloween;Slice;2.00 €
+Adult;60.0;Feminine;Carrot;Cream cheese;Ganache;Yes;Edible flowers;Slice;Monthly;Celebration;Yes;Easter;Slice;5.10 €
+Adult;37.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Sprinkles;Wedding cake;Weekly;Gathering;No;None;Wedding cake;95.60 €
+Adult;47.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Slice;Sporadic;Celebration;No;None;Slice;4.10 €
+Kid;8.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Monthly;Snack;No;None;Cupcake;5.40 €
+Adult;18.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Nuts;Slice;Monthly;Gathering;Yes;Halloween;Slice;3.60 €
+Adult;47.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Slice;Daly;Work event;No;None;Slice;4.40 €
+Adult;60.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Work event;No;None;Slice;4.70 €
+Kid;5.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Slice;Weekly;Birthday;Yes;Halloween;Slice;5.90 €
+Adult;45.0;Masculine;Carrot;Cream cheese;Ganache;No;None;Slice;Daily;Work event;No;None;Slice;1.80 €
+Adult;38.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;56.60 €
+Kid;12.0;Feminine;Red Velvet;Chocolate ganache;Whipped cream;Yes;Nuts;Slice;Daily;Birthday;Yes;Christmas;Slice;5.50 €
+Kid;13.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Slice;Monthly;Birthday;No;None;Slice;5.40 €
+Kid;12.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Slice;Daily;Celebration;No;None;Slice;4.60 €
+Adult;64.0;Masculine;Carrot;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Weekly;Gathering;Yes;Valentine's Day;Wedding cake;95.30 €
+Adult;40.0;Feminine;Red Velvet;Lemon curd;Chocolate glaze;No;None;Whole cake;Sporadic;Celebration;No;None;Whole cake;24.20 €
+Adult;60.0;Masculine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Monthly;Gathering;No;None;Wedding cake;68.00 €
+Adult;20.0;Feminine;Lemon;Cream cheese;;Yes;Edible flowers;Wedding cake;Daily;Work event;No;None;Wedding cake;79.90 €
+Kid;4.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Slice;Weekly;Snack;No;None;Slice;4.20 €
+Adult;31.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Whole cake;Monthly;Celebration;No;None;Whole cake;38.20 €
+Adult;46.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Weekly;Work event;Yes;Christmas;Wedding cake;82.60 €
+Adult;55.0;Masculine;Red Velvet;Dulce de leche;Ganache;No;None;Wedding cake;Daily;Celebration;Yes;Halloween;Wedding cake;45.00 €
+Kid;15.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Sprinkles;Slice;Sporadic;Celebration;No;None;Slice;NaN
+Adult;19.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Celebration;No;None;Whole cake;17.60 €
+Adult;45.0;Feminine;Carrot;Cream cheese;Chocolate glaze;No;None;Slice;Sporadic;Wedding;No;None;Slice;1.90 €
+Adult;30.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;39.80 €
+Adult;36.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;Yes;Nuts;Whole cake;Monthly;Celebration;No;None;Whole cake;10.60 €
+Adult;59.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Sprinkles;Whole cake;Daily;Work event;No;None;Whole cake;20.90 €
+Adult;59.0;Feminine;Lemon;Lemon curd;Chocolate glaze;Yes;Fruits;Slice;Monthly;Wedding;No;None;Slice;3.00 €
+Adult;63.0;Masculine;Carrot;Dulce de leche;Ganache;Yes;Fruits;Slice;Weekly;Wedding;No;None;Slice;2.30 €
+Kid;15.0;Feminine;Red Velvet;Chocolate ganache;Whipped cream;Yes;Sprinkles;Slice;Daily;Birthday;No;None;Slice;5.20 €
+Kid;11.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Weekly;Celebration;No;None;Cupcake;2.90 €
+Adult;25.0;Feminine;Vannila;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;No;None;Whole cake;10.70 €
+Adult;35.0;Feminine;Carrot;Lemon curd;Chocolate glaze;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;87.30 €
+Adult;33.0;Masculine;Lemon;Dulce de leche;Ganache;Yes;Chocolate chips;Slice;Daily;Wedding;Yes;Valentine's Day;Slice;2.00 €
+Adult;48.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Daily;Gathering;No;None;Wedding cake;46.70 €
+Adult;22.0;Feminine;Carrot;Lemon curd;Ganache;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;75.50 €
+Adult;52.0;Masculine;Lemon;Cream cheese;Chocolate glaze;No;None;Slice;Monthly;Gathering;No;None;Slice;5.70 €
+Adult;34.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;No;None;Slice;Daily;Gathering;No;None;Slice;NaN
+Adult;32.0;Feminine;Carrot;Dulce de leche;Ganache;Yes;Nuts;Whole cake;Weekly;Gathering;No;None;Whole cake;26.80 €
+Kid;16.0;Feminine;Chocolate;Chocolate ganache;Buttercream;No;None;Cupcake;Weekly;Snack;No;None;Cupcake;1.50 €
+Adult;34.0;Masculine;Red Velvet;Lemon curd;Ganache;No;None;Wedding cake;Weekly;Celebration;No;None;Wedding cake;80.80 €
+Adult;41.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;Yes;;Whole cake;Weekly;Celebration;No;None;Whole cake;12.20 €
+Adult;50.0;Feminine;;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Work event;No;None;Whole cake;20.80 €
+Adult;54.0;Masculine;Red Velvet;Cream cheese;Ganache;No;None;Wedding cake;Weekly;Gathering;No;None;Wedding cake;93.00 €
+Adult;48.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Nuts;Slice;Sporadic;Gathering;No;None;Slice;3.80 €
+Adult;26.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Gathering;No;None;Whole cake;10.70 €
+Adult;30.0;Feminine;Lemon;Dulce de leche;Ganache;No;None;Wedding cake;Weekly;Gathering;No;None;Wedding cake;74.60 €
+Kid;16.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Slice;Daily;Birthday;No;None;Slice;4.40 €
+Kid;17.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Daily;Snack;Yes;Fall;Cupcake;4.10 €
+Adult;22.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Wedding cake;Weekly;Wedding;Yes;Fall;Wedding cake;49.40 €
+Adult;48.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;Yes;Valentine's Day;Whole cake;13.40 €
+Adult;20.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Slice;Weekly;Celebration;Yes;Christmas;Slice;1.60 €
+Kid;9.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Cupcake;Weekly;Snack;Yes;Valentine's Day;Cupcake;1.20 €
+Adult;63.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Daily;Gathering;No;None;Wedding cake;43.60 €
+Adult;35.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;Yes;Chocolate chips;Slice;Sporadic;Celebration;No;None;Slice;5.40 €
+Adult;41.0;Masculine;Lemon;Cream cheese;Ganache;Yes;Chocolate chips;Slice;Weekly;Gathering;No;None;Slice;5.60 €
+Adult;21.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Wedding cake;Weekly;Work event;Yes;Christmas;Wedding cake;49.40 €
+Adult;57.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Work event;Yes;Valentine's Day;Whole cake;39.50 €
+Adult;59.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Daily;Celebration;No;None;Wedding cake;98.20 €
+Kid;11.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Slice;Weekly;Birthday;Yes;Valentine's Day;Slice;4.30 €
+Adult;47.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Weekly;Work event;No;None;Slice;2.40 €
+Kid;6.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Edible flowers;Slice;Monthly;Snack;No;None;Slice;2.70 €
+Adult;22.0;Masculine;Carrot;Dulce de leche;Ganache;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;17.00 €
+Adult;43.0;Masculine;Red Velvet;Dulce de leche;Ganache;Yes;Fruits;Slice;Daily;Work event;No;None;Slice;3.20 €
+Adult;30.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Celebration;No;None;Whole cake;21.00 €
+Adult;60.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Slice;Sporadic;Celebration;Yes;Valentine's Day;Slice;3.90 €
+Adult;52.0;Masculine;Carrot;Cream cheese;Chocolate glaze;No;None;Slice;Sporadic;Celebration;No;None;Slice;4.00 €
+Adult;35.0;Masculine;Carrot;Cream cheese;Ganache;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;13.50 €
+Adult;25.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Monthly;Celebration;Yes;Christmas;Slice;4.10 €
+Adult;45.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Sprinkles;Wedding cake;Weekly;Gathering;No;None;Wedding cake;57.20 €
+Adult;60.0;Feminine;Lemon;Lemon curd;Chocolate glaze;Yes;Nuts;Whole cake;Weekly;Work event;No;None;Whole cake;30.80 €
+Adult;33.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Work event;Yes;Easter;Slice;5.10 €
+;46.0;Feminine;Carrot;Cream cheese;Chocolate glaze;No;None;Wedding cake;Daily;Work event;Yes;Halloween;Wedding cake;83.40 €
+Adult;34.0;Masculine;Lemon;Dulce de leche;Ganache;No;None;Wedding cake;Daily;Work event;No;None;Wedding cake;99.40 €
+Adult;25.0;Masculine;Lemon;Lemon curd;Chocolate glaze;Yes;Sprinkles;Slice;Daily;Celebration;Yes;Easter;Slice;3.00 €
+;16.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Fruits;Slice;Weekly;Birthday;Yes;Fall;Slice;1.70 €
+Kid;-3.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Edible flowers;Slice;Weekly;Birthday;No;None;Slice;1.70 €
+Kid;16.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Fruits;Cupcake;Weekly;Snack;No;None;Cupcake;2.60 €
+;43.0;Feminine;Lemon;Cream cheese;Chocolate glaze;Yes;Chocolate chips;Wedding cake;Monthly;Gathering;No;None;Wedding cake;64.50 €
+Adult;24.0;Feminine;Lemon;Dulce de leche;Ganache;No;None;Whole cake;Daily;Gathering;Yes;Fall;Whole cake;37.50 €
+Adult;61.0;Feminine;Carrot;Lemon curd;Chocolate glaze;No;None;Wedding cake;Daily;Celebration;No;None;Wedding cake;53.90 €
+Adult;46.0;Feminine;Choclate;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Monthly;Gathering;No;None;Whole cake;18.90 €
+Adult;58.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Slice;Monthly;Wedding;Yes;Valentine's Day;Slice;4.10 €
+Adult;65.0;Masculine;Lemon;Lemon curd;Chocolate glaze;No;None;Wedding cake;Monthly;Celebration;No;None;Wedding cake;48.10 €
+Adult;19.0;Feminine;Carrot;Dulce de leche;Ganache;Yes;Edible flowers;Wedding cake;Weekly;Work event;No;None;Wedding cake;59.60 €
+Kid;9.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Cupcake;Daily;Snack;No;None;Cupcake;1.10 €
+Adult;22.0;Masculine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Fruits;Wedding cake;Daily;Celebration;Yes;Easter;Wedding cake;62.80 €
+Adult;22.0;Feminine;Lemon;Dulce de leche;Ganache;No;None;Whole cake;Weekly;Celebration;No;None;Whole cake;28.50 €
+Adult;63.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Sprinkles;Whole cake;Monthly;Wedding;No;None;Whole cake;37.40 €
+Adult;54.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Wedding cake;Monthly;Work event;Yes;Valentine's Day;Wedding cake;54.20 €
+Adult;47.0;Masculine;Lemon;Cream cheese;;No;None;Slice;Monthly;Celebration;No;None;Slice;3.70 €
+Kid;11.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Nuts;Slice;Sporadic;Birthday;Yes;Christmas;Slice;2.20 €
+Adult;59.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;33.80 €
+Adult;31.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Wedding cake;Monthly;Gathering;No;None;Wedding cake;63.00 €
+Kid;4.0;Feminine;Chocolate;Chocolate ganache;Buttercream;No;None;Slice;Monthly;Celebration;No;None;Slice;2.20 €
+Adult;65.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Slice;Monthly;Celebration;No;None;Slice;1.40 €
+Adult;48.0;Feminine;Lemon;Dulce de leche;Ganache;No;None;Wedding cake;Sporadic;Work event;No;None;Wedding cake;56.40 €
+Kid;12.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;;None;Cupcake;Weekly;Birthday;No;None;Cupcake;4.90 €
+Adult;32.0;Masculine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Monthly;Wedding;Yes;Valentine's Day;Wedding cake;41.80 €
+Kid;9.0;Feminine;Red Velvet;Strawberry jam;Buttercream;Yes;Fruits;Slice;Daily;Birthday;No;None;Slice;3.80 €
+Adult;33.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Fruits;Wedding cake;Weekly;Wedding;No;None;Wedding cake;94.80 €
+Adult;37.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Daily;Wedding;Yes;Easter;Wedding cake;89.80 €
+Adult;22.0;Masculine;Carrot;Lemon curd;Chocolate glaze;;None;Whole cake;Daily;Work event;No;None;Whole cake;14.20 €
+Adult;58.0;Masculine;Carrot;Cream cheese;Ganache;Yes;Sprinkles;Whole cake;Weekly;Celebration;No;None;Whole cake;18.60 €
+Adult;19.0;Feminine;Red Velvet;Cream cheese;Chocolate glaze;No;None;Wedding cake;Weekly;Celebration;No;None;Wedding cake;41.10 €
+Adult;36.0;Masculine;Lemon;Cream cheese;Chocolate glaze;No;None;Wedding cake;Daily;Gathering;Yes;Easter;Wedding cake;46.90 €
+Adult;62.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Sporadic;Celebration;No;None;Whole cake;39.70 €
+Adult;35.0;Feminine;Lemon;Lemon curd;Ganache;No;None;Whole cake;Monthly;Gathering;No;None;Whole cake;10
+Adult;33.0;Feminine;Carrot;Cream cheese;Ganache;Yes;Edible flowers;Wedding cake;Daily;Work event;No;None;Wedding cake;71.70 €
+Adult;25.0;Feminine;Carrot;Lemon curd;Chocolate glaze;Yes;Edible flowers;Slice;Daily;Celebration;No;None;Slice;2.20 €
+;18.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Gathering;Yes;Fall;Slice;5.90 €
+Adult;26.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;No;None;Slice;Sporadic;Wedding;No;None;Slice;2.90 €
+Kid;5.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Weekly;Birthday;No;None;Cupcake;5.60 €
+Adult;64.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;32.80 €
+Adult;63.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Sporadic;Celebration;Yes;;Slice;4.50 €
+Adult;55.0;Masculine;Lemon;Cream cheese;Ganache;Yes;Chocolate chips;Wedding cake;Daily;Work event;No;None;Wedding cake;69.60 €
+Adult;20.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Edible flowers;Wedding cake;Monthly;Work event;Yes;Valentine's Day;Wedding cake;79.10 €
+Adult;19.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Celebration;No;None;Slice;4.50 €
+Adult;31.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Edible flowers;Wedding cake;Daily;Celebration;No;None;Wedding cake;78.20 €
+Adult;37.0;Feminine;Red Velvet;Cream cheese;Chocolate glaze;No;None;Wedding cake;Sporadic;Wedding;No;None;Wedding cake;66.50 €
+Kid;7.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Slice;Weekly;Celebration;Yes;Halloween;Slice;€
+Adult;44.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Fruits;Whole cake;Sporadic;Gathering;No;None;Whole cake;16.10 €
+Adult;29.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;No;None;Slice;Weekly;Work event;No;None;Slice;4.10 €
+Adult;26.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Weekly;Work event;No;None;Slice;4.10 €
+Adult;65.0;Masculine;;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;24.10 €
+Kid;10.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Monthly;Birthday;No;None;Slice;4.10 €
+Adult;37.0;Feminine;Lemon;Cream cheese;Chocolate glaze;Yes;Chocolate chips;Wedding cake;Monthly;Wedding;No;None;Wedding cake;78.30 €
+Kid;13.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;No;;Slice;Weekly;Snack;No;None;Slice;1.90 €
+Kid;6.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Slice;Daily;Snack;No;None;Slice;2.50 €
+Adult;55.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Sporadic;Wedding;No;None;Whole cake;37.70 €
+Adult;52.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Daily;Gathering;Yes;Halloween;Slice;5.00 €
+Kid;7.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Sporadic;Birthday;No;None;Cupcake;2.50 €
+Kid;13.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;Fruits;Cupcake;Monthly;Celebration;No;None;Cupcake;3.60 €
+Adult;59.0;Feminine;Carrot;Cream cheese;Chocolate glaze;Yes;Nuts;Wedding cake;Sporadic;Work event;No;None;Wedding cake;85.20 €
+Adult;60.0;Masculine;Carrot;Dulce de leche;Chocolate glaze;No;None;Slice;Weekly;Gathering;No;None;Slice;2.10 €
+Adult;46.0;Feminine;Lemon;Cream cheese;Chocolate glaze;Yes;Sprinkles;Slice;Daily;Wedding;No;None;Slice;4.10 €
+Kid;9.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Monthly;Snack;No;None;Cupcake;2.30 €
+Adult;150.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Work event;Yes;Valentine's Day;Slice;4.40 €
+Adult;32.0;Feminine;Lemon;Cream cheese;Chocolate glaze;Yes;Sprinkles;Whole cake;Sporadic;Celebration;No;None;Whole cake;14.00 €
+Adult;61.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Wedding cake;Daily;Wedding;No;None;Wedding cake;55.30 €
+Adult;31.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Daily;Celebration;No;None;Wedding cake;68.00 €
+Adult;48.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;16.90 €
+Adult;34.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;No;None;Whole cake;Monthly;Wedding;No;None;Whole cake;33.40 €
+Adult;19.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Gathering;No;None;Wedding cake;54.30 €
+Kid;10.0;Masculine;Chocolate;Strawberry jam;Buttercream;No;None;Cupcake;Daily;Snack;No;None;Cupcake;2.60 €
+Adult;43.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;Yes;Chocolate chips;Wedding cake;Daily;Work event;No;None;Wedding cake;70.00 €
+Adult;41.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Monthly;Work event;No;None;Whole cake;20.00 €
+Kid;6.0;Masculine;Chocolate;Chocolate ganache;Buttercream;Yes;Chocolate chips;Slice;Weekly;Celebration;No;None;Slice;3.30 €
+Adult;43.0;Feminine;Lemon;Cream cheese;Chocolate glaze;Yes;Fruits;Whole cake;Weekly;Gathering;No;None;Whole cake;38.00 €
+Adult;56.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;Yes;Sprinkles;Wedding cake;Weekly;Gathering;No;None;Wedding cake;85.10 €
+Kid;11.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;No;None;Cupcake;Monthly;Birthday;Yes;Valentine's Day;Cupcake;2.40 €
+Adult;34.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;Yes;Edible flowers;Whole cake;Sporadic;Wedding;No;None;Whole cake;20.50 €
+Kid;5.0;Masculine;Chocolate;Strawberry jam;Whipped cream;No;None;Cupcake;Weekly;Snack;Yes;Easter;Cupcake;5.70 €
+Adult;22.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Wedding;No;None;Slice;5.20 €
+Kid;14.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Cupcake;Daily;Birthday;No;None;Cupcake;1.40 €
+Kid;13.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Slice;Sporadic;Celebration;No;None;Slice;3.50 €
+Adult;28.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Monthly;Work event;No;None;Slice;2.70 €
+Adult;50.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;Yes;Nuts;Slice;Weekly;Gathering;No;None;Slice;4.70 €
+Adult;33.0;Feminine;;Dulce de leche;Cream cheese frosting;No;None;Slice;Weekly;Celebration;No;None;Slice;5.90 €
+Kid;8.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Weekly;Celebration;No;None;Cupcake;4.80 €
+Kid;5.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;Edible flowers;Cupcake;Daily;Celebration;Yes;Halloween;Cupcake;5.10 €
+Adult;56.0;Feminine;Carrot;Dulce de leche;Ganache;Yes;Sprinkles;Whole cake;Monthly;Wedding;No;None;Whole cake;13.50 €
+Adult;64.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Whole cake;Daily;Gathering;No;None;Whole cake;27.90 €
+Adult;53.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;29.10 €
+Adult;19.0;Feminine;Lemon;Lemon curd;Ganache;No;None;Slice;Daily;Work event;Yes;Halloween;Slice;3.20 €
+Kid;16.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;;Chocolate chips;Cupcake;Daily;Celebration;No;None;Cupcake;5.20 €
+Kid;5.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Cupcake;Sporadic;Celebration;No;None;Cupcake;4.80 €
+Kid;16.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Cupcake;Weekly;Birthday;No;;Cupcake;2.50 €
+Adult;42.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;14.70 €
+Adult;23.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Slice;Daily;Celebration;No;None;Slice;4.40 €
+Adult;35.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Slice;Weekly;Gathering;Yes;Halloween;Slice;4.80 €
+Adult;58.0;Feminine;Lemon;Cream cheese;;Yes;Nuts;Whole cake;Weekly;Wedding;No;None;Whole cake;37.80 €
+Adult;44.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Celebration;Yes;Halloween;Whole cake;21.70 €
+Adult;43.0;Feminine;Red Velvet;Lemon curd;Ganache;Yes;Sprinkles;Slice;Weekly;Gathering;No;None;Slice;3.00 €
+Kid;5.0;Masculine;Red Velvet;Chocolate ganache;Buttercream;Yes;Fruits;Cupcake;Monthly;Birthday;No;None;Cupcake;5.00 €
+Adult;47.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;48.00 €
+Adult;45.0;Masculine;Lemon;Dulce de leche;Ganache;No;None;Slice;Sporadic;Gathering;No;None;Slice;5.60 €
+Kid;14.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;No;None;Slice;Monthly;Snack;Yes;Valentine's Day;Slice;5.20 €
+Kid;17.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;Yes;Edible flowers;Cupcake;Monthly;Celebration;No;None;Cupcake;1.90 €
+Adult;31.0;Masculine;Carrot;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Weekly;Gathering;Yes;Easter;Wedding cake;78.10 €
+Adult;25.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Sporadic;Wedding;No;None;Wedding cake;57.70 €
+Adult;64.0;Feminine;Carrot;Lemon curd;Chocolate glaze;No;None;Wedding cake;Weekly;Work event;Yes;Christmas;Wedding cake;41.70 €
+Adult;46.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;Yes;Fall;Whole cake;25.00 €
+Adult;65.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;91.50 €
+Adult;54.0;Masculine;Red Velvet;Lemon curd;Ganache;Yes;Nuts;Slice;Weekly;Gathering;No;None;Slice;4.80 €
+Adult;64.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Whole cake;Weekly;Work event;No;None;Whole cake;32.60 €
+Adult;48.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Wedding;Yes;Easter;Wedding cake;55.30 €
+Adult;40.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Nuts;Slice;Daily;Wedding;No;None;Slice;6.00 €
+Kid;14.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Sporadic;Snack;No;None;Cupcake;2.40 €
+Adult;47.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;Yes;Fruits;Slice;Weekly;Wedding;No;None;Slice;5.60 €
+Kid;7.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Edible flowers;Cupcake;Monthly;Snack;Yes;Christmas;Cupcake;5.60 €
+Adult;33.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Slice;Weekly;Wedding;Yes;Valentine's Day;Slice;3.70 €
+Adult;48.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Fruits;Wedding cake;Daily;Work event;No;None;Wedding cake;89.00 €
+Adult;58.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Slice;Monthly;Gathering;No;None;Slice;5.20 €
+Adult;31.0;Feminine;Lemon;Lemon curd;Ganache;Yes;Chocolate chips;Whole cake;Monthly;Gathering;No;None;Whole cake;12.00 €
+Kid;7.0;Masculine;Chocolate;Chocolate ganache;Buttercream;Yes;Nuts;Cupcake;Daily;Birthday;No;None;Cupcake;4.80 €
+Adult;59.0;Feminine;Red Velvet;Lemon curd;Ganache;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;11.90 €
+Adult;57.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Monthly;Gathering;No;None;Slice;4.10 €
+Kid;6.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Nuts;Cupcake;Weekly;Birthday;Yes;Halloween;Cupcake;5.10 €
+Adult;18.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Slice;Monthly;Gathering;No;None;Slice;1.00 €
+Adult;19.0;Feminine;Carrot;Cream cheese;Chocolate glaze;Yes;Chocolate chips;Whole cake;Weekly;Work event;Yes;Halloween;Whole cake;25.20 €
+Kid;5.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Slice;Daily;Celebration;No;None;Slice;4.20 €
+Kid;15.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Slice;Daily;Birthday;No;None;Slice;5.80 €
+Adult;65.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Chocolate chips;Slice;Weekly;Work event;Yes;Fall;Slice;1.10 €
+Kid;12.0;Feminine;Chocolate;Chocolate ganache;Buttercream;No;None;Cupcake;Daily;Celebration;Yes;Christmas;Cupcake;4.50 €
+Adult;18.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Slice;Weekly;Wedding;No;None;Slice;3.60 €
+Adult;22.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;Yes;Fruits;Wedding cake;Daily;Work event;Yes;Christmas;Wedding cake;96.30 €
+Adult;20.0;Masculine;Carrot;Lemon curd;Ganache;No;None;Slice;Weekly;Wedding;No;None;Slice;4.20 €
+Adult;28.0;Masculine;Red Velvet;Lemon curd;Ganache;No;None;Whole cake;Weekly;Celebration;No;None;Whole cake;24.40 €
+Adult;59.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Monthly;Work event;Yes;Halloween;Slice;5.20 €
+Adult;33.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;Yes;Fruits;Slice;Weekly;Work event;No;None;Slice;4.90 €
+Adult;44.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Monthly;Work event;No;None;Slice;1.50 €
+Adult;26.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Sporadic;Wedding;No;None;Slice;2.60 €
+Kid;17.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Slice;Daily;Snack;No;None;Slice;5.60 €
+Adult;47.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Slice;Weekly;Wedding;No;None;Slice;2.40 €
+Kid;13.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Weekly;Celebration;No;None;Slice;2.80 €
+Adult;42.0;Masculine;Lemon;Dulce de leche;Chocolate glaze;No;None;Whole cake;Sporadic;Celebration;No;None;Whole cake;22.90 €
+Kid;15.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Fruits;Cupcake;Daily;Snack;No;None;Cupcake;4.40 €
+Adult;39.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Daily;Celebration;No;None;Whole cake;25.80 €
+Adult;59.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Wedding;No;None;Slice;1.50 €
+Adult;37.0;Masculine;Lemon;Cream cheese;Chocolate glaze;Yes;Fruits;Wedding cake;Daily;Work event;No;None;Wedding cake;43.80 €
+Adult;57.0;Feminine;Carrot;Cream cheese;Ganache;No;;Whole cake;Weekly;Gathering;No;None;Whole cake;13.50 €
+Kid;13.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;;Chocolate chips;Slice;Daily;Snack;Yes;Christmas;Slice;3.20 €
+Adult;50.0;Masculine;Lemon;Cream cheese;Ganache;Yes;Chocolate chips;Wedding cake;Monthly;Celebration;No;None;Wedding cake;68.20 €
+Adult;39.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Monthly;Work event;No;;Slice;5.00 €
+Adult;59.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Work event;Yes;Fall;Whole cake;14.50 €
+Adult;37.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Weekly;Gathering;Yes;Easter;Wedding cake;50.00 €
+Adult;65.0;Masculine;Carrot;Cream cheese;Chocolate glaze;No;None;Whole cake;Monthly;Work event;Yes;Halloween;Whole cake;18.40 €
+Kid;8.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Cupcake;Monthly;Celebration;No;None;Cupcake;3.40 €
+Adult;28.0;Feminine;Carrot;Dulce de leche;Ganache;;None;Slice;Daily;Gathering;No;None;Slice;1.50 €
+Adult;45.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;Yes;Christmas;Whole cake;24.70 €
+Adult;56.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Weekly;Celebration;No;None;Whole cake;24.10 €
+Adult;27.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Fruits;Whole cake;Weekly;Work event;No;None;Whole cake;26.50 €
+Kid;17.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Weekly;Birthday;Yes;Valentine's Day;Slice;1.20 €
+Adult;21.0;Feminine;Lemonn;Cream cheese;Ganache;Yes;Fruits;Slice;Weekly;Wedding;No;None;Slice;5.00 €
+Kid;6.0;Feminine;Chocolate;Strawberry jam;;Yes;;Cupcake;Daily;Birthday;No;None;Cupcake;1.20 €
+Adult;60.0;Feminine;Carrot;Dulce de leche;Ganache;Yes;Nuts;Slice;Weekly;Celebration;Yes;Fall;Slice;3.20 €
+Adult;38.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Whole cake;Daily;Work event;No;None;Whole cake;28.70 €
+Adult;60.0;Feminine;Lemon;Lemon curd;Chocolate glaze;Yes;Chocolate chips;Wedding cake;Daily;Work event;No;None;Wedding cake;76.50 €
+Adult;59.0;Masculine;Red Velvet;Cream cheese;Chocolate glaze;Yes;Fruits;Whole cake;Sporadic;Wedding;No;None;Whole cake;17.10 €
+Kid;11.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Slice;Daily;Celebration;No;None;Slice;2.80 €
+Adult;61.0;Masculine;Red Velvet;Cream cheese;Ganache;No;None;Wedding cake;Daily;Gathering;No;None;Wedding cake;89.20 €
+Adult;53.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Daily;Work event;No;None;Wedding cake;78.30 €
+Adult;52.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Wedding cake;Monthly;Wedding;No;None;Wedding cake;46.20 €
+Kid;11.0;Feminine;Red Velvet;Strawberry jam;Buttercream;Yes;Fruits;Slice;Sporadic;Celebration;No;None;Slice;4.00 €
+Kid;10.0;Masculine;Chocolate;Chocolate ganache;Buttercream;No;None;Slice;Weekly;Snack;No;None;Slice;5.20 €
+Adult;18.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;Yes;Edible flowers;Slice;Weekly;Celebration;No;None;Slice;4.30 €
+Adult;65.0;Masculine;Lemon;Dulce de leche;Chocolate glaze;Yes;Nuts;Slice;Monthly;Gathering;No;None;Slice;4.30 €
+Adult;24.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Sprinkles;Slice;Sporadic;Work event;No;None;Slice;5.40 €
+Adult;54.0;Masculine;Lemon;Dulce de leche;Ganache;No;None;Slice;Sporadic;Wedding;No;None;Slice;3.80 €
+Adult;56.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;Yes;Edible flowers;Wedding cake;Weekly;Work event;No;None;Wedding cake;57.60 €
+Kid;10.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Weekly;Celebration;No;None;Cupcake;2.50 €
+Adult;58.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Wedding;No;None;Whole cake;35.60 €
+Adult;52.0;Masculine;Red Velvet;Cream cheese;Ganache;Yes;Fruits;Whole cake;Weekly;Work event;No;None;Whole cake;31.10 €
+Adult;55.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Chocolate chips;Whole cake;Weekly;Celebration;Yes;Valentine's Day;Whole cake;16.50 €
+Adult;38.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;Yes;Edible flowers;Whole cake;Daily;Gathering;Yes;Easter;Whole cake;30.60 €
+Adult;57.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Sprinkles;Slice;Weekly;Celebration;No;None;Slice;4.90 €
+Adult;48.0;Masculine;Red Velvet;Lemon curd;Ganache;Yes;Chocolate chips;Wedding cake;Monthly;Wedding;No;None;Wedding cake;67.90 €
+Adult;43.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Work event;No;None;Whole cake;17.90 €
+Adult;50.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Work event;No;None;Slice;2.60 €
+Adult;54.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Monthly;Gathering;No;None;Whole cake;29.90 €
+Kid;5.0;Masculine;Red Velvet;Chocolate ganache;Buttercream;Yes;Edible flowers;Cupcake;Weekly;Birthday;No;None;Cupcake;3.40 €
+Kid;10.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Weekly;Birthday;No;None;Cupcake;5.20 €
+Adult;58.0;Feminine;Carrot;Cream cheese;Ganache;Yes;;Wedding cake;Daily;Work event;No;None;Wedding cake;80.60 €
+Kid;9.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Slice;Sporadic;Snack;Yes;Fall;Slice;1.10 €
+Adult;45.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;26.50 €
+Adult;36.0;Masculine;Carrot;Dulce de leche;Ganache;Yes;Chocolate chips;Whole cake;Sporadic;Work event;No;None;Whole cake;34.20 €
+Adult;49.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Work event;No;None;Whole cake;29.50 €
+;34.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Slice;Daily;Wedding;Yes;Christmas;Slice;3.40 €
+Adult;62.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Wedding cake;Weekly;Wedding;Yes;Fall;Wedding cake;51.50 €
+Adult;48.0;Masculine;Red Velvet;Cream cheese;;No;None;Wedding cake;Monthly;Work event;No;None;Wedding cake;60.80 €
+Kid;6.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Slice;Daily;Celebration;Yes;Fall;Slice;10
+Kid;8.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Edible flowers;Cupcake;Weekly;Birthday;No;None;Cupcake;4.30 €
+Adult;40.0;Feminine;;Dulce de leche;Ganache;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;94.20 €
+Kid;8.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Chocolate chips;Cupcake;Daily;Birthday;No;None;Cupcake;5.40 €
+Adult;50.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Whole cake;Daily;Celebration;Yes;Halloween;Whole cake;18.00 €
+Adult;33.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Slice;Monthly;Work event;No;None;Slice;4.60 €
+Adult;41.0;Feminine;Red Velvet;Cream cheese;Ganache;Yes;Edible flowers;Whole cake;Sporadic;Gathering;No;None;Whole cake;35.00 €
+Adult;18.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Celebration;No;None;Whole cake;34.50 €
+Kid;13.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Slice;Daily;Birthday;No;None;Slice;5.70 €
+Adult;40.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Slice;Weekly;Wedding;No;None;Slice;2.70 €
+Adult;44.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Chocolate chips;Whole cake;Daily;Gathering;No;None;Whole cake;22.70 €
+Adult;999.0;Masculine;Carrot;Dulce de leche;Chocolate glaze;No;None;Whole cake;Weekly;Celebration;No;None;Whole cake;25.90 €
+Kid;10.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Cupcake;Monthly;Celebration;No;None;Cupcake;3.10 €
+Adult;41.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Daily;Wedding;Yes;Valentine's Day;Slice;4.40 €
+Adult;63.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;Yes;Nuts;Wedding cake;Daily;Wedding;No;None;Wedding cake;73.70 €
+Adult;42.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Wedding;Yes;Halloween;Wedding cake;97.90 €
+Kid;7.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Monthly;Birthday;No;None;Cupcake;2.20 €
+Adult;25.0;Feminine;Lemon;Cream cheese;Chocolate glaze;Yes;Edible flowers;Wedding cake;Daily;Work event;No;None;Wedding cake;43.90 €
+Adult;35.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Wedding;Yes;Fall;Wedding cake;84.50 €
+Adult;50.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;69.70 €
+Adult;53.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Wedding cake;Monthly;Work event;No;None;Wedding cake;60.00 €
+Adult;43.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Daly;Work event;Yes;Halloween;Wedding cake;56.90 €
+Kid;12.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Slice;Weekly;Snack;Yes;Christmas;Slice;5.80 €
+Kid;7.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Slice;Weekly;Celebration;No;None;Slice;4.10 €
+Adult;40.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;28.00 €
+Adult;58.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;No;None;Slice;Weekly;Celebration;Yes;Christmas;Slice;4.50 €
+Adult;61.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Celebration;No;None;Slice;2.70 €
+Adult;25.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Monthly;Wedding;Yes;Christmas;Whole cake;30.50 €
+Kid;4.0;Masculine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Nuts;Slice;Sporadic;Celebration;Yes;Halloween;Slice;5.50 €
+Adult;25.0;Feminine;Lemon;Cream cheese;;No;None;Slice;Daily;Celebration;No;None;Slice;3.90 €
+Kid;15.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Sporadic;Birthday;Yes;Easter;Cupcake;3.60 €
+Adult;40.0;Masculine;Carrot;Cream cheese;Ganache;No;None;Wedding cake;Sporadic;Wedding;No;None;Wedding cake;49.90 €
+Adult;59.0;Feminine;Lemon;Dulce de leche;Ganache;No;None;Slice;Weekly;Gathering;No;None;Slice;2.00 €
+Kid;8.0;Masculine;Chocolate;Strawberry jam;Buttercream;No;None;Slice;Weekly;Birthday;No;;Slice;4.80 €
+Adult;18.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Fruits;Wedding cake;Monthly;Gathering;No;None;Wedding cake;82.50 €
+Kid;7.0;Masculine;Chocolate;Chocolate ganache;Whipped cream;No;None;Cupcake;Daily;Celebration;Yes;Halloween;Cupcake;3.80 €
+Adult;56.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Sporadic;Gathering;Yes;Christmas;Whole cake;12.60 €
+Kid;15.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Daily;Snack;No;None;Cupcake;2.80 €
+Adult;40.0;Feminine;;Lemon curd;Cream cheese frosting;Yes;;Slice;Sporadic;Work event;Yes;Easter;Slice;Free
+Adult;45.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Slice;Weekly;Celebration;Yes;Valentine's Day;Slice;5.40 €
+Kid;17.0;Masculine;Red Velvet;Chocolate ganache;Whipped cream;Yes;Edible flowers;Slice;Daily;Birthday;No;None;Slice;3.40 €
+Adult;19.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Daily;Work event;Yes;Halloween;Wedding cake;75.20 €
+Kid;9.0;Feminine;;Strawberry jam;Chocolate glaze;No;None;Cupcake;Daily;Celebration;No;None;Cupcake;4.60 €
+Kid;12.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Cupcake;Sporadic;Birthday;No;None;Cupcake;5.10 €
+Kid;10.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Slice;Daily;Celebration;No;None;Slice;1.50 €
+Kid;4.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Cupcake;Weekly;Snack;Yes;Halloween;Cupcake;5.40 €
+Adult;48.0;Masculine;Carrot;Cream cheese;Ganache;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;78.50 €
+Adult;54.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Slice;Weekly;Work event;No;None;Slice;2.00 €
+Kid;10.0;Feminine;Red Velvet;Chocolate ganache;Whipped cream;Yes;;Slice;Weekly;Snack;No;None;Slice;1.50 €
+Adult;43.0;Feminine;Red Velvet;Cream cheese;Chocolate glaze;No;None;Whole cake;Daily;Gathering;No;None;Whole cake;17.10 €
+Kid;8.0;Masculine;Chocolate;Chocolate ganache;Buttercream;Yes;Chocolate chips;Cupcake;Weekly;Celebration;Yes;Easter;Cupcake;4.80 €
+Adult;18.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;Yes;Fruits;Wedding cake;Daily;Wedding;No;None;Wedding cake;63.00 €
+Adult;-3.0;Feminine;Carrot;Cream cheese;Chocolate glaze;No;None;Whole cake;Monthly;Wedding;Yes;Fall;Whole cake;34.00 €
+Adult;30.0;Feminine;;Cream cheese;Ganache;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;10.20 €
+Adult;30.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Fruits;Whole cake;Monthly;Celebration;No;None;Whole cake;26.60 €
+Adult;39.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Slice;Weekly;Celebration;No;None;Slice;1.30 €
+Kid;17.0;Masculine;Red Velvet;Strawberry jam;Buttercream;No;None;Cupcake;Sporadic;Celebration;No;None;Cupcake;€
+Adult;65.0;Feminine;Lemon;Cream cheese;;Yes;Edible flowers;Slice;Daily;Celebration;Yes;Fall;Slice;2.00 €
+Adult;27.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;Yes;Chocolate chips;Slice;Weekly;Wedding;No;None;Slice;5.60 €
+Adult;50.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Wedding cake;Daily;Work event;No;None;Wedding cake;98.20 €
+Kid;10.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Fruits;Slice;Weekly;Birthday;Yes;Fall;Slice;5.90 €
+Kid;12.0;Feminine;Chocolate;Chocolate ganache;Buttercream;No;None;Slice;Daily;Celebration;No;None;Slice;2.10 €
+Adult;43.0;Masculine;Lemon;Cream cheese;Chocolate glaze;Yes;Nuts;Wedding cake;Weekly;Work event;No;None;Wedding cake;43.40 €
+Adult;28.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Slice;Weekly;Gathering;Yes;Christmas;Slice;3.40 €
+Kid;11.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Sporadic;Birthday;No;None;Cupcake;2.00 €
+Adult;27.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Work event;No;;Wedding cake;95.10 €
+Adult;57.0;Feminine;Carrot;Lemon curd;Ganache;No;None;Whole cake;Daily;Celebration;Yes;Halloween;Whole cake;20.40 €
+Kid;6.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;Yes;Edible flowers;Cupcake;Weekly;Celebration;No;None;Cupcake;2.10 €
+Adult;18.0;Masculine;Red Velvet;Cream cheese;Chocolate glaze;No;None;Slice;Daily;Wedding;Yes;Halloween;Slice;1.00 €
+Kid;13.0;Masculine;Red Velvet;Strawberry jam;Buttercream;Yes;Fruits;Slice;Monthly;Birthday;No;None;Slice;2.50 €
+Adult;42.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Gathering;No;None;Wedding cake;63.80 €
+Adult;-3.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;Yes;Edible flowers;Whole cake;Sporadic;Celebration;Yes;Halloween;Whole cake;27.30 €
+Kid;7.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Slice;Weekly;Celebration;Yes;Valentine's Day;Slice;1.50 €
+Kid;17.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;No;None;Cupcake;Weekly;Snack;Yes;Halloween;Cupcake;4.50 €
+Adult;58.0;Feminine;;Dulce de leche;Ganache;Yes;Nuts;Slice;Sporadic;Celebration;No;None;Slice;4.70 €
+Adult;34.0;Masculine;Red Velvet;Dulce de leche;Ganache;No;None;Wedding cake;Daily;Wedding;No;None;Wedding cake;86.70 €
+Adult;56.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Sporadic;Gathering;No;None;Whole cake;31.90 €
+Kid;10.0;Masculine;Chocolate;Chocolate ganache;Buttercream;Yes;Sprinkles;Cupcake;Daily;Snack;No;None;Cupcake;4.80 €
+Adult;27.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Fruits;Slice;Weekly;Celebration;No;None;Slice;3.00 €
+Kid;9.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Edible flowers;Cupcake;Monthly;Celebration;No;;Cupcake;1.60 €
+Adult;23.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Daily;Wedding;No;None;Wedding cake;63.60 €
+Kid;10.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Chocolate chips;Slice;Weekly;Snack;Yes;Easter;Slice;5.70 €
+Adult;50.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Whole cake;Monthly;Gathering;No;None;Whole cake;28.80 €
+Adult;20.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Monthly;Celebration;Yes;Valentine's Day;Slice;2.30 €
+Adult;54.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;96.70 €
+Kid;12.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Monthly;Birthday;No;None;Cupcake;4.20 €
+Kid;4.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Slice;Daily;Snack;Yes;Easter;Slice;3.50 €
+Adult;53.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Weekly;Wedding;Yes;Christmas;Whole cake;31.90 €
+Adult;26.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Fruits;Slice;Daily;Work event;No;None;Slice;3.40 €
+Adult;37.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Sporadic;Wedding;No;None;Wedding cake;80.20 €
+Kid;15.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Monthly;Celebration;No;None;Cupcake;2.50 €
+Adult;46.0;Masculine;Red Velvet;Cream cheese;Ganache;No;;Whole cake;Sporadic;Gathering;No;None;Whole cake;33.20 €
+Adult;999.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Fruits;Wedding cake;Daily;Gathering;No;None;Wedding cake;90.40 €
+Adult;24.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;Yes;Chocolate chips;Slice;Daily;Gathering;No;None;Slice;5.60 €
+Kid;16.0;Feminine;Chocolate;Chocolate ganache;Buttercream;No;None;Slice;Daily;Snack;No;None;Slice;4.80 €
+Adult;54.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Nuts;Slice;Monthly;Wedding;Yes;Easter;Slice;1.70 €
+Adult;55.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Chocolate chips;Wedding cake;Daily;Gathering;Yes;Halloween;Wedding cake;65.40 €
+Adult;19.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Whole cake;Daily;Work event;No;None;Whole cake;25.70 €
+Adult;22.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;12.70 €
+Kid;16.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Cupcake;Sporadic;Celebration;No;None;Cupcake;4.20 €
+Adult;27.0;Masculine;Lemon;Cream cheese;Chocolate glaze;Yes;Fruits;Slice;Daily;Wedding;No;None;Slice;2.60 €
+Adult;33.0;Feminine;Red Velvet;Cream cheese;Chocolate glaze;No;None;Whole cake;Daily;Work event;No;None;Whole cake;37.30 €
+Adult;25.0;Masculine;Lemon;Dulce de leche;Chocolate glaze;No;None;Slice;Weekly;Work event;Yes;Fall;Slice;5.60 €
+Adult;34.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;Yes;Nuts;Wedding cake;Monthly;Wedding;Yes;Halloween;Wedding cake;79.30 €
+Kid;4.0;Feminine;Red Velvet;Chocolate ganache;Whipped cream;No;None;Slice;Daily;Celebration;Yes;Valentine's Day;Slice;4.90 €
+Adult;59.0;Masculine;Lemon;Dulce de leche;Ganache;Yes;Nuts;Whole cake;Weekly;Gathering;Yes;Valentine's Day;Whole cake;16.50 €
+Kid;6.0;Femanine;Red Velvet;;Chocolate glaze;Yes;;Cupcake;Weekly;Snack;No;None;Cupcake;3.20 €
+Adult;58.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Monthly;Gathering;No;None;Wedding cake;43.50 €
+Kid;17.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Fruits;Slice;Daily;Birthday;No;None;Slice;3.80 €
+Adult;46.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Edible flowers;Whole cake;Daily;Work event;No;None;Whole cake;30.20 €
+Kid;11.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Sporadic;Snack;No;None;Cupcake;2.60 €
+Adult;60.0;Feminine;Carrot;Dulce de leche;Chocolate glaze;No;None;Wedding cake;Daily;Gathering;No;None;Wedding cake;58.60 €
+Adult;45.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Wedding;Yes;Fall;Whole cake;31.10 €
+Adult;26.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Slice;Monthly;Work event;Yes;Halloween;Slice;1.30 €
+Kid;7.0;Masculine;Chocolate;Strawberry jam;Whipped cream;Yes;Edible flowers;Cupcake;Daily;Birthday;No;None;Cupcake;2.00 €
+Adult;61.0;Feminine;Red Velvet;Dulce de leche;Ganache;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;41.30 €
+Kid;13.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Slice;Sporadic;Snack;No;None;Slice;5.60 €
+Adult;38.0;Masculine;Red Velvet;Cream cheese;Ganache;Yes;Edible flowers;Wedding cake;Weekly;Wedding;Yes;Halloween;Wedding cake;64.60 €
+Adult;55.0;Feminine;Carrot;Cream cheese;Ganache;Yes;Sprinkles;Whole cake;Weekly;Celebration;Yes;Christmas;Whole cake;26.10 €
+Adult;24.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Wedding;Yes;Fall;Slice;3.70 €
+Adult;38.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Slice;Monthly;Wedding;No;;Slice;5.70 €
+Adult;38.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Gathering;No;None;Slice;5.10 €
+Kid;11.0;Masculine;Chocolate;Chocolate ganache;;No;None;Cupcake;Daily;Birthday;No;None;Cupcake;3.20 €
+Adult;22.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;31.40 €
+Adult;57.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Whole cake;Daily;Gathering;Yes;Halloween;Whole cake;26.20 €
+Adult;43.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;25.80 €
+Adult;48.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Slice;Weekly;Wedding;Yes;Christmas;Slice;5.00 €
+Adult;46.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Sprinkles;Wedding cake;Weekly;Celebration;No;None;Wedding cake;57.40 €
+Adult;63.0;Masculine;Lemon;Dulce de leche;Ganache;No;None;Slice;Weekly;Gathering;No;None;Slice;2.00 €
+Adult;44.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;Yes;Nuts;Whole cake;Daily;Gathering;No;None;Whole cake;39.80 €
+Adult;49.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Slice;Weekly;Gathering;No;None;Slice;3.60 €
+Kid;15.0;Masculine;Chocolate;Chocolate ganache;Whipped cream;Yes;Nuts;Cupcake;Daily;Snack;No;None;Cupcake;4.60 €
+Adult;18.0;Feminine;Red Velvet;Dulce de leche;Ganache;No;None;Wedding cake;Sporadic;Gathering;No;None;Wedding cake;80.10 €
+Adult;58.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;18.10 €
+Adult;61.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Work event;Yes;Fall;Whole cake;17.10 €
+Adult;40.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Monthly;Work event;No;None;Slice;1.70 €
+Adult;42.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;Yes;Sprinkles;Wedding cake;Monthly;Gathering;No;None;Wedding cake;98.50 €
+Adult;58.0;Masculine;Carrot;Cream cheese;Chocolate glaze;;None;Whole cake;Weekly;Gathering;Yes;Fall;Whole cake;17.30 €
+Kid;13.0;Feminine;Chocolate;Chocolate ganache;Buttercream;No;None;Slice;Daly;Snack;No;None;Slice;5.90 €
+Adult;24.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Fruits;Whole cake;Monthly;Wedding;No;None;Whole cake;32.80 €
+Adult;28.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Slice;Weekly;Work event;No;None;Slice;1.80 €
+Kid;16.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Edible flowers;Cupcake;Monthly;Birthday;No;None;Cupcake;4.00 €
+Adult;18.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Nuts;Wedding cake;Monthly;Gathering;Yes;Christmas;Wedding cake;94.20 €
+Kid;7.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Sprinkles;Cupcake;Daily;Snack;No;None;Cupcake;5.20 €
+Kid;15.0;Feminine;Red Velvet;Strawberry jam;Buttercream;No;None;Cupcake;Daily;Celebration;No;None;Cupcake;4.30 €
+Kid;6.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Monthly;Celebration;No;None;Cupcake;1.20 €
+Kid;999.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Cupcake;Sporadic;Snack;No;None;Cupcake;2.80 €
+Kid;7.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Monthly;Celebration;No;None;Cupcake;3.80 €
+Adult;58.0;Masculine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Sporadic;Celebration;No;None;Wedding cake;55.20 €
+Adult;37.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;85.60 €
+Adult;22.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Celebration;No;None;Whole cake;34.50 €
+Kid;5.0;Masculine;Red Velvet;Chocolate ganache;Buttercream;Yes;Sprinkles;Slice;Monthly;Birthday;No;None;Slice;5.20 €
+Adult;26.0;Masculine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Nuts;Whole cake;Daily;Work event;Yes;Valentine's Day;Whole cake;11.80 €
+Kid;6.0;Masculine;Red Velvet;Strawberry jam;Chocolate glaze;No;None;Slice;Daily;Snack;No;None;Slice;1.50 €
+Kid;10.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Weekly;Snack;No;None;Cupcake;?
+Kid;10.0;Masculine;Red Velvet;Strawberry jam;Chocolate glaze;No;None;Slice;Daily;Snack;Yes;Valentine's Day;Slice;3.60 €
+Adult;45.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Whole cake;Monthly;Gathering;No;None;Whole cake;37.50 €
+Adult;39.0;Feminine;Lemon;Dulce de leche;Ganache;Yes;Nuts;Whole cake;Monthly;Work event;No;None;Whole cake;22.60 €
+Kid;14.0;Masculine;Red Velvet;Strawberry jam;;Yes;Edible flowers;Cupcake;Monthly;Birthday;No;None;Cupcake;2.40 €
+Adult;24.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Monthly;Gathering;Yes;Valentine's Day;Wedding cake;43.30 €
+Adult;53.0;Masculine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Daily;Work event;No;None;Wedding cake;75.20 €
+Kid;4.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;No;None;Slice;Weekly;Birthday;No;None;Slice;1.60 €
+Kid;13.0;Feminine;Chocolate;Strawberry jam;Buttercream;Yes;Sprinkles;Slice;Sporadic;Birthday;No;None;Slice;4.60 €
+Kid;12.0;Feminine;Chocolate;123;Chocolate glaze;;;Slice;Monthly;Snack;No;None;Slice;5.40 €
+Adult;47.0;Masculine;;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Daily;Gathering;No;None;Whole cake;19.70 €
+Adult;30.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Whole cake;Daily;Celebration;No;None;Whole cake;25.80 €
+Kid;7.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Slice;Weekly;Celebration;Yes;Valentine's Day;Slice;4.90 €
+Adult;61.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Edible flowers;Wedding cake;Sporadic;Gathering;No;None;Wedding cake;80.20 €
+Kid;4.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;Yes;Nuts;Slice;Daily;Birthday;No;None;Slice;1.20 €
+Adult;24.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Whole cake;Daily;Work event;No;None;Whole cake;28.30 €
+Adult;27.0;Masculine;Carrot;Dulce de leche;Ganache;No;None;Wedding cake;Weekly;Celebration;No;None;Wedding cake;99.50 €
+Adult;61.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Monthly;Wedding;No;None;Slice;4.10 €
+Adult;41.0;Feminine;Red Velvet;Cream cheese;Ganache;Yes;Sprinkles;Wedding cake;Weekly;Gathering;No;None;Wedding cake;65.10 €
+Adult;20.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;15.60 €
+Adult;26.0;Feminine;Carrot;Dulce de leche;Ganache;Yes;Nuts;Wedding cake;Weekly;Gathering;Yes;Easter;Wedding cake;46.40 €
+Kid;14.0;Masculine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Nuts;Slice;Weekly;Celebration;Yes;Valentine's Day;Slice;2.20 €
+Kid;5.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Monthly;Birthday;No;None;Cupcake;2.10 €
+Adult;27.0;Feminine;Red Velvet;Dulce de leche;Ganache;Yes;Fruits;Whole cake;Weekly;Gathering;No;None;Whole cake;16.60 €
+Adult;53.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Monthly;Gathering;Yes;Halloween;Wedding cake;85.70 €
+;21.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;75.50 €
+Adult;24.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;Yes;Edible flowers;Wedding cake;Weekly;Gathering;No;None;Wedding cake;52.80 €
+Adult;54.0;Masculine;Carrot;Lemon curd;Cream cheese frosting;Yes;Fruits;Slice;Weekly;Wedding;No;None;Slice;?
+Adult;32.0;Feminine;Carrot;Lemon curd;Chocolate glaze;Yes;Chocolate chips;Slice;Daily;Work event;Yes;Easter;Slice;2.70 €
+Adult;19.0;Masculine;Carrot;Cream cheese;Ganache;No;None;Wedding cake;Monthly;Wedding;No;None;Wedding cake;90.90 €
+Adult;33.0;Feminine;Red Velvet;Dulce de leche;Ganache;Yes;Chocolate chips;Whole cake;Weekly;Celebration;No;None;Whole cake;23.00 €
+Adult;19.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Gathering;No;None;Slice;3.40 €
+Adult;58.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Work event;Yes;Halloween;Slice;3.80 €
+Adult;59.0;Feminine;Lemon;Lemon curd;Chocolate glaze;Yes;Edible flowers;Slice;Weekly;Gathering;No;None;Slice;1.40 €
+Kid;4.0;Feminine;;Strawberry jam;Chocolate glaze;Yes;Sprinkles;Cupcake;Weekly;Snack;No;None;Cupcake;1.20 €
+Adult;63.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;;None;Slice;Weekly;Gathering;No;None;Slice;1.90 €
+Adult;62.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;Yes;Fall;Whole cake;13.50 €
+Adult;35.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Work event;No;None;Slice;3.10 €
+Adult;61.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Slice;Daily;Work event;Yes;Easter;Slice;2.60 €
+Adult;50.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;Yes;Fruits;Wedding cake;Daily;Celebration;No;None;Wedding cake;46.70 €
+Adult;150.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;Yes;Sprinkles;Whole cake;Weekly;Celebration;Yes;Halloween;Whole cake;32.60 €
+Adult;41.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Sporadic;Gathering;No;None;Whole cake;17.80 €
+Adult;51.0;Masculine;Red Velvet;Dulce de leche;Ganache;Yes;Nuts;Wedding cake;Weekly;Wedding;Yes;Christmas;Wedding cake;71.70 €
+Kid;10.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Edible flowers;Cupcake;Daily;Birthday;No;None;Cupcake;2.30 €
+Adult;42.0;Masculine;Carrot;Dulce de leche;Ganache;Yes;Edible flowers;Slice;Weekly;Gathering;Yes;Christmas;Slice;2.40 €
+Adult;63.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;12.10 €
+Adult;39.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;;Wedding cake;Daily;Work event;No;None;Wedding cake;64.80 €
+Adult;50.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Whole cake;Daily;Wedding;No;None;Whole cake;25.90 €
+Adult;24.0;Feminine;Lemon;Cream cheese;Ganache;Yes;Edible flowers;Whole cake;Monthly;Work event;Yes;Christmas;Whole cake;21.60 €
+Kid;15.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Cupcake;Weekly;Birthday;No;None;Cupcake;1.50 €
+Adult;34.0;Feminine;Red Velvet;Lemon curd;Ganache;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;11.30 €
+Adult;-3.0;Feminine;Lemon;Cream cheese;Chocolate glaze;Yes;Edible flowers;Slice;Weekly;Work event;Yes;Christmas;Slice;6.00 €
+Kid;10.0;Masculine;Chocolate;Strawberry jam;Buttercream;Yes;Fruits;Slice;Sporadic;Snack;Yes;Valentine's Day;Slice;4.70 €
+Kid;11.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Nuts;Cupcake;Monthly;Snack;Yes;Valentine's Day;Cupcake;1.20 €
+Adult;55.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Slice;Weekly;Work event;No;None;Slice;5.20 €
+Adult;26.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;No;;Slice;Monthly;Gathering;No;None;Slice;5.90 €
+Adult;26.0;Feminine;Lemon;Dulce de leche;Ganache;No;None;Whole cake;Daily;Celebration;No;None;Whole cake;13.30 €
+Adult;23.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Whole cake;Weekly;Gathering;Yes;Christmas;Whole cake;34.90 €
+Adult;25.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Slice;Daily;Work event;Yes;Valentine's Day;Slice;1.60 €
+Adult;65.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;76.10 €
+Kid;17.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;Yes;Chocolate chips;Slice;Monthly;Birthday;No;None;Slice;2.70 €
+Adult;18.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Gathering;Yes;Valentine's Day;Slice;3.20 €
+Adult;64.0;Masculine;Carrot;Lemon curd;Ganache;No;None;Whole cake;Monthly;Gathering;No;None;Whole cake;32.00 €
+Adult;62.0;Feminine;Red Velvet;Cream cheese;Chocolate glaze;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;17.60 €
+Adult;18.0;Masculine;Lemon;Cream cheese;Ganache;Yes;Chocolate chips;Whole cake;Weekly;Gathering;No;None;Whole cake;15.80 €
+Adult;36.0;Feminine;Lemon;Dulce de leche;Ganache;No;None;Whole cake;Daily;Celebration;No;None;Whole cake;39.30 €
+Kid;5.0;Feminine;Chocolate;Strawberry jam;Buttercream;Yes;Nuts;Cupcake;Weekly;Celebration;Yes;Valentine's Day;Cupcake;2.60 €
+Kid;16.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Sporadic;Snack;No;None;Slice;2.80 €
+Kid;10.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Nuts;Cupcake;Weekly;Celebration;Yes;Halloween;Cupcake;5.10 €
+Kid;5.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Sprinkles;Cupcake;Daily;Birthday;No;None;Cupcake;5.30 €
+Adult;58.0;Feminine;Red Velvet;Dulce de leche;Ganache;No;None;Wedding cake;Daily;Celebration;No;None;Wedding cake;85.70 €
+Adult;62.0;Masculine;Red Velvet;Lemon curd;Ganache;No;None;Whole cake;Weekly;Work event;Yes;Fall;Whole cake;28.80 €
+Adult;65.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Daily;Wedding;No;None;Wedding cake;74.80 €
+Adult;61.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Fruits;Wedding cake;Weekly;Gathering;No;None;Wedding cake;69.60 €
+Adult;46.0;Feminine;Red Velvet;Dulce de leche;Ganache;No;None;Wedding cake;Daily;Work event;Yes;Halloween;Wedding cake;71.00 €
+Adult;52.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Slice;Sporadic;Celebration;No;None;Slice;5.60 €
+Adult;22.0;Masculine;Lemon;Dulce de leche;Ganache;No;None;Slice;Daily;Celebration;No;None;Slice;4.00 €
+Adult;27.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Wedding cake;Weekly;Gathering;No;None;Wedding cake;78.30 €
+;29.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Weekly;Celebration;Yes;Christmas;Slice;4.50 €
+Adult;34.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Work event;No;None;Whole cake;35.90 €
+Adult;63.0;Masculine;Carrot;Cream cheese;Ganache;No;None;Slice;Monthly;Celebration;Yes;Easter;Slice;1.00 €
+Adult;51.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Edible flowers;Whole cake;Daily;Work event;No;None;Whole cake;16.50 €
+Adult;29.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Monthly;Celebration;No;None;Wedding cake;86.40 €
+Kid;5.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Weekly;Celebration;No;None;Cupcake;1.80 €
+Adult;30.0;Feminine;Carrot;Lemon curd;Ganache;No;None;Slice;Weekly;Celebration;No;;Slice;3.00 €
+Adult;47.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;No;None;Whole cake;33.90 €
+Kid;12.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Fruits;Cupcake;Daily;Snack;Yes;Christmas;Cupcake;2.30 €
+Adult;35.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Work event;No;None;Whole cake;39.40 €
+Adult;63.0;Feminine;Red Velvet;Dulce de leche;Ganache;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;88.80 €
+Adult;49.0;Feminine;Red Velvet;Dulce de leche;Ganache;No;None;Slice;Monthly;Wedding;No;None;Slice;5.10 €
+Kid;5.0;Feminine;Red Velvt;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Cupcake;Daily;Birthday;No;None;Cupcake;3.80 €
+Adult;39.0;Masculine;Lemon;Lemon curd;Ganache;No;None;Wedding cake;Daily;Gathering;No;None;Wedding cake;59.90 €
+Kid;8.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Sporadic;Celebration;No;None;Cupcake;3.40 €
+Adult;26.0;Feminine;Carrot;Lemon curd;Chocolate glaze;No;None;Wedding cake;Weekly;Gathering;Yes;Halloween;Wedding cake;43.80 €
+Adult;24.0;Feminine;Lemon;Dulce de leche;;Yes;Edible flowers;Wedding cake;Weekly;Work event;No;None;Wedding cake;67.10 €
+Adult;60.0;Masculine;Carrot;Dulce de leche;Chocolate glaze;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;36.10 €
+Kid;12.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Daily;Snack;Yes;Christmas;Cupcake;4.50 €
+Adult;30.0;Feminine;Lemon;Dulce de leche;Ganache;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;34.70 €
+Adult;38.0;Feminine;Lemon;Cream cheese;Ganache;Yes;Nuts;Whole cake;Daily;Wedding;No;None;Whole cake;28.20 €
+Adult;43.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Whole cake;Daily;Work event;Yes;Halloween;Whole cake;36.60 €
+Adult;37.0;Masculine;Lemon;Cream cheese;Ganache;;None;Whole cake;Daily;Wedding;No;None;Whole cake;29.90 €
+Kid;5.0;Masculine;Red Velvet;Chocolate ganache;Buttercream;;None;Slice;Weekly;Birthday;No;None;Slice;3.60 €
+Kid;7.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;Yes;Nuts;Slice;Daily;Celebration;No;None;Slice;2.90 €
+Adult;34.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Whole cake;Weekly;Celebration;No;;Whole cake;30.20 €
+Adult;23.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Nuts;Slice;Weekly;Celebration;No;None;Slice;1.40 €
+Adult;34.0;Feminine;Lemon;Dulce de leche;Ganache;Yes;Sprinkles;Slice;Weekly;Celebration;No;None;Slice;2.40 €
+Kid;14.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;No;None;Cupcake;Weekly;Celebration;No;None;Cupcake;3.50 €
+Adult;64.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Monthly;Wedding;Yes;Christmas;Wedding cake;84.00 €
+Adult;37.0;Masculine;Carrot;Cream cheese;Ganache;Yes;Fruits;Wedding cake;Weekly;Wedding;Yes;Valentine's Day;Wedding cake;56.40 €
+Kid;5.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Cupcake;Monthly;Work event;No;None;Wedding cake;2.50 €
+Adult;54.0;Masculine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Edible flowers;Whole cake;Weekly;Wedding;No;None;Whole cake;14.40 €
+Adult;42.0;Feminine;Carrot;Dulce de leche;Chocolate glaze;No;None;Slice;Daily;Work event;No;None;Slice;2.80 €
+Adult;19.0;Masculine;;Cream cheese;;No;None;Whole cake;Daily;Gathering;No;None;Whole cake;11.60 €
+Adult;44.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Gathering;No;None;Whole cake;27.70 €
+Adult;44.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Slice;Weekly;Celebration;No;None;Slice;5.60 €
+Adult;62.0;Masculine;Carrot;Cream cheese;Ganache;No;None;Slice;Daily;Gathering;No;None;Slice;3.00 €
+Kid;16.0;Masculine;Red Velvet;Strawberry jam;Buttercream;Yes;Fruits;Cupcake;Monthly;Birthday;No;None;Cupcake;5.70 €
+Kid;17.0;Feminine;Red Velvet;Strawberry jam;Buttercream;No;None;Cupcake;Weekly;Celebration;No;None;Cupcake;2.20 €
+Adult;54.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Whole cake;Daily;Work event;Yes;Valentine's Day;Whole cake;30.00 €
+Kid;16.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Edible flowers;Cupcake;Daily;Snack;Yes;Valentine's Day;Cupcake;5.10 €
+Adult;24.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Celebration;No;None;Slice;2.50 €
+Kid;8.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Sporadic;Snack;No;None;Cupcake;2.40 €
+Adult;52.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Slice;Weekly;Gathering;Yes;Christmas;Slice;4.00 €
+Kid;15.0;Masculine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Fruits;Cupcake;Daily;Birthday;Yes;Halloween;Cupcake;4.40 €
+;65.0;Masculine;Lemon;Lemon curd;Chocolate glaze;No;None;Wedding cake;Weekly;Celebration;No;None;Wedding cake;48.90 €
+Adult;45.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Slice;Weekly;Wedding;No;None;Slice;2.10 €
+Adult;36.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Daily;Wedding;Yes;Fall;Whole cake;35.40 €
+Adult;59.0;Feminine;Carrot;Lemon curd;Chocolate glaze;No;None;Whole cake;Sporadic;Gathering;No;None;Whole cake;11.60 €
+;7.0;Masculine;Chocolate;Chocolate ganache;Whipped cream;No;None;Slice;Daily;Snack;No;None;Slice;3.10 €
+Kid;4.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Sporadic;Birthday;No;None;Cupcake;4.60 €
+Adult;48.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Gathering;No;None;Wedding cake;75.20 €
+Adult;27.0;Feminine;Carrot;123;Cream cheese frosting;No;None;Wedding cake;Sporadic;Celebration;No;None;Wedding cake;73.80 €
+Adult;53.0;Feminine;Lemon;Lemon curd;Ganache;No;None;Slice;Sporadic;Wedding;No;None;Slice;3.30 €
+Kid;12.0;Masculine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Nuts;Slice;Sporadic;Birthday;No;None;Slice;1.30 €
+;53.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Daily;Wedding;Yes;Fall;Wedding cake;79.40 €
+Adult;-3.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Celebration;No;None;Slice;1.60 €
+Kid;14.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Fruits;Slice;Sporadic;Snack;No;None;Slice;1.60 €
+Adult;39.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Slice;Sporadic;Work event;Yes;Halloween;Slice;4.40 €
+Adult;34.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Whole cake;Monthly;Celebration;No;None;Whole cake;25.40 €
+Adult;26.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Work event;No;None;Whole cake;30.80 €
+Adult;28.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Sporadic;Work event;No;None;Wedding cake;43.40 €
+Kid;150.0;Fem;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Edible flowers;Cupcake;Daily;Celebration;No;None;Cupcake;4.70 €
+Adult;58.0;Feminine;Carrot;Dulce de leche;Chocolate glaze;No;None;Slice;Weekly;Work event;No;None;Slice;6.00 €
+Adult;37.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Weekly;Work event;Yes;Easter;Slice;3.80 €
+Kid;16.0;Feminine;Chocolate;Strawberry jam;Buttercream;No;None;Cupcake;Monthly;Celebration;No;None;Cupcake;2.20 €
+Adult;58.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Wedding;Yes;Halloween;Slice;2.70 €
+Adult;32.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Wedding cake;Weekly;Work event;No;None;Wedding cake;46.80 €
+Adult;18.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Work event;Yes;Christmas;Whole cake;12.50 €
+Kid;17.0;Masculine;Red Velvet;Strawberry jam;Whipped cream;No;None;Cupcake;Daily;Celebration;Yes;Fall;Cupcake;2.20 €
+Adult;42.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;18.80 €
+Adult;61.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;No;None;Slice;Sporadic;Work event;No;None;Slice;3.70 €
+Adult;58.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Slice;Daily;Work event;No;None;Slice;2.90 €
+Adult;30.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Monthly;Gathering;No;None;Whole cake;22.20 €
+Adult;60.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Monthly;Gathering;No;None;Wedding cake;54.50 €
+Adult;48.0;Feminine;Red Velvet;Cream cheese;Chocolate glaze;Yes;Fruits;Wedding cake;Daily;Celebration;No;None;Wedding cake;88.90 €
+Adult;20.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;Yes;Chocolate chips;Wedding cake;Monthly;Wedding;No;None;Wedding cake;75.10 €
+Kid;12.0;Feminine;Red Velvet;Chocolate ganache;Whipped cream;No;None;Slice;Weekly;Celebration;No;None;Slice;3.10 €
+Adult;50.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Celebration;No;None;Whole cake;17.60 €
+Adult;49.0;Feminine;Carrot;Lemon curd;Ganache;No;None;Slice;Daily;Gathering;No;None;Slice;3.30 €
+Adult;52.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Slice;Daily;Celebration;No;None;Slice;1.00 €
+Adult;50.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Whole cake;Daily;Work event;No;None;Whole cake;25.70 €
+Adult;57.0;Feminine;;Dulce de leche;Ganache;;None;Slice;Monthly;Celebration;No;None;Slice;1.00 €
+Kid;13.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;Yes;Edible flowers;Slice;Monthly;Celebration;Yes;Valentine's Day;Slice;1.10 €
+Adult;25.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Wedding cake;Monthly;Gathering;No;None;Wedding cake;71.90 €
+Adult;64.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;98.30 €
+Kid;8.0;Masculine;Red Velvet;Chocolate ganache;Buttercream;No;None;Cupcake;Weekly;Snack;No;None;Cupcake;1.40 €
+Adult;20.0;Feminine;Lemon;Lemon curd;Ganache;No;None;Wedding cake;Sporadic;Work event;No;None;Wedding cake;89.10 €
+Adult;44.0;Masculine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Slice;Weekly;Wedding;No;None;Slice;4.30 €
+Adult;41.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Slice;Monthly;Work event;No;None;Slice;4.40 €
+Adult;;Feminine;Carrot;Cream cheese;Chocolate glaze;No;None;Wedding cake;Monthly;Celebration;No;None;Wedding cake;57.40 €
+Adult;34.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;Yes;Chocolate chips;Whole cake;Daily;Work event;Yes;Christmas;Whole cake;24.40 €
+Adult;59.0;Masculine;Carrot;Cream cheese;Chocolate glaze;No;None;Slice;Monthly;Work event;No;None;Slice;2.20 €
+Kid;14.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;No;None;Cupcake;Monthly;Birthday;No;None;Cupcake;1.40 €
+Adult;60.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Gathering;Yes;Christmas;Wedding cake;73.40 €
+Kid;4.0;Masculine;Chocolate;Chocolate ganache;Buttercream;Yes;Fruits;Cupcake;Monthly;Celebration;No;None;Cupcake;1.40 €
+Kid;5.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Cupcake;Monthly;Snack;No;None;Cupcake;5.40 €
+Kid;9.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Chocolate chips;Cupcake;Monthly;Celebration;No;None;Cupcake;3.70 €
+Adult;32.0;Feminine;Lemonn;Lemon curd;Ganache;No;None;Wedding cake;Monthly;Gathering;No;None;Wedding cake;60.40 €
+Adult;54.0;Feminine;Red Velvet;Cream cheese;Chocolate glaze;No;None;Whole cake;Monthly;Gathering;No;None;Whole cake;25.10 €
+Adult;40.0;Feminine;Lemon;Cream cheese;Chocolate glaze;Yes;Nuts;Wedding cake;Sporadic;Work event;No;None;Wedding cake;87.10 €
+Kid;-3.0;Masculine;Chocolate;Chocolate ganache;Whipped cream;Yes;Sprinkles;Cupcake;Weekly;Snack;No;None;Cupcake;4.00 €
+Adult;35.0;Feminine;Carrot;Dulce de leche;Chocolate glaze;Yes;Chocolate chips;Wedding cake;Weekly;Celebration;No;None;Wedding cake;80.60 €
+Adult;43.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Chocolate chips;Wedding cake;Weekly;Wedding;Yes;Fall;Wedding cake;81.20 €
+Adult;54.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Whole cake;Weekly;Wedding;Yes;Christmas;Whole cake;10.30 €
+Kid;8.0;Masculine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Cupcake;Monthly;Snack;Yes;Halloween;Cupcake;4.30 €
+Adult;;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Nuts;Wedding cake;Weekly;Wedding;No;None;Wedding cake;98.30 €
+Kid;5.0;Feminine;;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Cupcake;Daily;Celebration;No;None;Cupcake;3.00 €
+Adult;52.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Wedding cake;Daily;Celebration;No;None;Wedding cake;95.00 €
+Adult;51.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Monthly;Work event;No;None;Wedding cake;58.10 €
+Adult;25.0;Masculine;Lemon;Dulce de leche;Ganache;Yes;Fruits;Wedding cake;Weekly;Work event;Yes;Easter;Wedding cake;82.00 €
+Adult;48.0;Masculine;Lemon;Dulce de leche;Ganache;No;None;Slice;Daily;Gathering;No;None;Slice;2.80 €
+Adult;45.0;Feminine;Lemon;Dulce de leche;Ganache;No;None;Whole cake;Weekly;Celebration;Yes;Fall;Whole cake;10.70 €
+Kid;6.0;Feminine;Red Velvet;Strawberry jam;Buttercream;No;None;Cupcake;Weekly;Birthday;Yes;Easter;Cupcake;5.50 €
+Adult;18.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;19.00 €
+Adult;24.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;Yes;Christmas;Whole cake;19.80 €
+Kid;10.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Slice;Weekly;Celebration;No;None;Slice;2.90 €
+Adult;20.0;Masculine;Carrot;Cream cheese;Ganache;No;None;Slice;Daily;Work event;No;None;Slice;2.80 €
+Adult;42.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Celebration;No;None;Wedding cake;98.40 €
+Adult;35.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Work event;No;None;Whole cake;18.70 €
+Adult;65.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Gathering;No;None;Wedding cake;90.90 €
+Adult;23.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Nuts;Whole cake;Daily;Work event;Yes;Christmas;Whole cake;31.00 €
+Adult;63.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Slice;Weekly;Celebration;No;None;Slice;3.10 €
+Kid;12.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;No;None;Slice;Daily;Celebration;Yes;Valentine's Day;Slice;2.80 €
+Adult;56.0;Feminine;Red Velvet;Lemon curd;Ganache;No;None;Wedding cake;Monthly;Work event;No;None;Wedding cake;61.40 €
+Adult;54.0;Masculine;Red Velvet;Lemon curd;Ganache;No;None;Slice;Weekly;Gathering;No;None;Slice;4.30 €
+Adult;56.0;Feminine;Red Velvet;Lemon curd;Ganache;No;None;Wedding cake;Sporadic;Celebration;Yes;Fall;Wedding cake;77.00 €
+Adult;33.0;Masculine;Red Velvet;Dulce de leche;Ganache;No;None;Slice;Daily;Work event;Yes;Halloween;Slice;5.80 €
+Adult;22.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Fruits;Wedding cake;Weekly;Work event;Yes;Halloween;Wedding cake;98.60 €
+Kid;15.0;Masculine;Red Velvet;Chocolate ganache;Whipped cream;No;None;Slice;Weekly;Birthday;Yes;Valentine's Day;Slice;2.00 €
+Adult;41.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;35.70 €
+Adult;56.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Slice;Daily;Celebration;No;None;Slice;2.30 €
+Adult;47.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;39.70 €
+Adult;23.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Gathering;No;None;Whole cake;39.10 €
+Adult;22.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;17.10 €
+Adult;29.0;Masculine;Carrot;Dulce de leche;Chocolate glaze;No;None;Slice;Sporadic;Celebration;No;None;Slice;3.80 €
+Adult;61.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;Yes;Sprinkles;Whole cake;Weekly;Celebration;No;None;Whole cake;26.20 €
+Adult;58.0;Feminine;Carrot;Cream cheese;Chocolate glaze;No;None;Whole cake;Daily;Work event;No;None;Whole cake;31.50 €
+Adult;51.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Wedding cake;Daily;Wedding;No;None;Wedding cake;86.80 €
+;29.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;24.20 €
+Adult;63.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Monthly;Wedding;No;None;Wedding cake;59.20 €
+Kid;4.0;Masculine;Chocolate;Chocolate ganache;Buttercream;Yes;Chocolate chips;Cupcake;Weekly;Birthday;Yes;Valentine's Day;Cupcake;4.50 €
+Adult;27.0;Masculine;Carrot;Dulce de leche;Ganache;No;None;Wedding cake;Daily;Gathering;Yes;Easter;Wedding cake;50.70 €
+Adult;23.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Sporadic;Wedding;No;None;Wedding cake;71.60 €
+Kid;10.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Slice;Weekly;Snack;No;None;Slice;5.10 €
+Adult;47.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Whole cake;Monthly;Wedding;No;None;Whole cake;23.30 €
+Kid;5.0;Masculine;Chocolate;Chocolate ganache;Whipped cream;Yes;Sprinkles;Slice;Monthly;Birthday;No;None;Slice;2.40 €
+Adult;22.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Slice;Daily;Wedding;Yes;Easter;Slice;4.80 €
+Kid;12.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Fruits;Cupcake;Daily;Snack;Yes;Halloween;Cupcake;3.00 €
+Kid;7.0;Masculine;Red Velvet;Chocolate ganache;Buttercream;Yes;Nuts;Slice;Daily;Birthday;No;None;Slice;2.70 €
+Kid;9.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;Fruits;Slice;Weekly;Snack;No;None;Slice;5.50 €
+Kid;6.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Sprinkles;Slice;Monthly;Snack;Yes;Easter;Slice;4.70 €
+Kid;5.0;Masculine;Chocolate;Chocolate ganache;Whipped cream;Yes;Nuts;Cupcake;Daily;Snack;No;None;Cupcake;2.30 €
+Adult;18.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;25.50 €
+Kid;7.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Sprinkles;Slice;Monthly;Birthday;No;None;Slice;3.40 €
+Adult;39.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;Yes;Chocolate chips;Whole cake;Daily;Wedding;Yes;Halloween;Whole cake;26.50 €
+Adult;62.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Wedding cake;Daily;Gathering;No;None;Wedding cake;87.00 €
+Kid;8.0;Feminine;Chocolate;Strawberry jam;Buttercream;No;None;Cupcake;Daily;Snack;No;None;Cupcake;3.90 €
+Adult;32.0;Masculine;Carrot;Cream cheese;Chocolate glaze;No;None;Wedding cake;Daily;Gathering;No;None;Wedding cake;61.30 €
+Kid;16.0;Masculine;Red Velvet;Chocolate ganache;Whipped cream;Yes;Sprinkles;Slice;Weekly;Celebration;No;None;Slice;1.10 €
+Kid;17.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Cupcake;Weekly;Birthday;No;None;Cupcake;2.20 €
+Adult;63.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Work event;No;None;Whole cake;24.30 €
+Adult;29.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;No;None;Slice;Weekly;Gathering;No;None;Slice;5.30 €
+Adult;39.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Monthly;Wedding;No;None;Wedding cake;80.80 €
+Adult;21.0;Masculine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Celebration;Yes;Easter;Wedding cake;68.80 €
+Kid;9.0;Masculine;Chocolate;Chocolate ganache;Whipped cream;Yes;Edible flowers;Cupcake;Weekly;Snack;No;None;Cupcake;2.10 €
+Adult;19.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Chocolate chips;Wedding cake;Daily;Wedding;No;None;Wedding cake;88.00 €
+Adult;21.0;Feminine;Carrot;Dulce de leche;Chocolate glaze;Yes;Chocolate chips;Slice;Monthly;Gathering;No;;Slice;5.60 €
+Adult;64.0;Feminine;Carrot;Cream cheese;Ganache;Yes;Chocolate chips;Slice;Weekly;Celebration;Yes;Halloween;Slice;1.80 €
+Adult;64.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Nuts;Slice;Daily;Gathering;Yes;Valentine's Day;Slice;3.00 €
+Adult;28.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;Yes;Edible flowers;Whole cake;Monthly;Wedding;No;;Whole cake;12.20 €
+Adult;22.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;Yes;Halloween;Whole cake;22.10 €
+Adult;37.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Slice;Sporadic;Wedding;No;None;Slice;2.60 €
+Kid;9.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Weekly;Celebration;No;None;Cupcake;3.60 €
+Kid;17.0;Masculine;Chocolate;Chocolate ganache;Buttercream;No;None;Slice;Monthly;Snack;No;None;Slice;5.10 €
+Kid;9.0;Feminine;;Chocolate ganache;Chocolate glaze;Yes;Nuts;Cupcake;Monthly;Birthday;Yes;Halloween;Cupcake;3.10 €
+Adult;34.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Work event;Yes;Valentine's Day;Slice;5.70 €
+Adult;31.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Work event;No;None;Slice;4.10 €
+Adult;51.0;Feminine;Red Velvet;Cream cheese;Ganache;Yes;Nuts;Wedding cake;Sporadic;Gathering;Yes;Fall;Wedding cake;45.40 €
+Adult;35.0;Feminine;Carrot;Lemon curd;Ganache;No;None;Whole cake;Daily;Celebration;Yes;Valentine's Day;Whole cake;22.00 €
+Kid;11.0;Masculine;Chocolate;Chocolate ganache;Buttercream;Yes;Sprinkles;Slice;Daily;Celebration;Yes;Easter;Slice;4.40 €
+Adult;45.0;Masculine;Red Velvet;Dulce de leche;;No;None;Whole cake;Monthly;Wedding;No;None;Whole cake;30.90 €
+Adult;42.0;Feminine;Lemon;Lemon curd;Chocolate glaze;No;None;Wedding cake;Sporadic;Work event;No;None;Wedding cake;71.10 €
+Adult;28.0;Feminine;Red Velvet;Cream cheese;Ganache;Yes;Fruits;Wedding cake;Monthly;Work event;Yes;Fall;Wedding cake;58.80 €
+Adult;40.0;Feminine;Lemon;Lemon curd;Ganache;No;None;Slice;Monthly;Work event;No;None;Slice;5.20 €
+Adult;56.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Celebration;Yes;Halloween;Whole cake;31.10 €
+Adult;39.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Whole cake;Weekly;Work event;No;None;Whole cake;32.20 €
+Adult;26.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Sprinkles;Wedding cake;Monthly;Work event;No;None;Wedding cake;80.50 €
+Adult;50.0;Masculine;Lemon;Cream cheese;Chocolate glaze;Yes;Edible flowers;Whole cake;Weekly;Gathering;No;None;Whole cake;12.20 €
+Kid;4.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Slice;Daily;Celebration;Yes;Valentine's Day;Slice;5.10 €
+Adult;59.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;No;None;Slice;Sporadic;Gathering;No;None;Slice;2.70 €
+Kid;7.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Nuts;Cupcake;Monthly;Snack;No;None;Cupcake;3.60 €
+Adult;33.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;Yes;Fruits;Whole cake;Sporadic;Gathering;Yes;Halloween;Whole cake;21.00 €
+Adult;65.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Slice;Weekly;Work event;Yes;Halloween;Slice;3.00 €
+Adult;64.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Work event;No;None;Whole cake;10.10 €
+Adult;48.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Wedding;No;None;Whole cake;38.10 €
+Adult;37.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Monthly;Wedding;No;None;Whole cake;27.80 €
+Adult;57.0;Feminine;Lemon;Lemon curd;Ganache;No;None;Slice;Weekly;Gathering;Yes;Fall;Slice;3.80 €
+Adult;52.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;Yes;Chocolate chips;Whole cake;Monthly;Wedding;No;None;Whole cake;37.70 €
+Kid;9.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;Yes;Edible flowers;Slice;Daily;Birthday;No;None;Slice;4.20 €
+Adult;23.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Sprinkles;Whole cake;Weekly;Work event;Yes;Easter;Whole cake;13.80 €
+Adult;18.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Weekly;Work event;No;None;Whole cake;34.60 €
+Kid;17.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Cupcake;Weekly;Birthday;Yes;Fall;Cupcake;4.10 €
+Adult;22.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Monthly;Wedding;No;None;Whole cake;21.90 €
+Kid;16.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Nuts;Slice;Daily;Celebration;No;None;Slice;1.40 €
+Adult;23.0;Masculine;Carrot;Lemon curd;Chocolate glaze;No;None;Whole cake;Sporadic;Gathering;No;None;Whole cake;27.30 €
+Kid;12.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;Yes;Edible flowers;Cupcake;Weekly;Birthday;No;None;Cupcake;1.80 €
+Kid;16.0;Masculine;Red Velvet;Chocolate ganache;Whipped cream;No;None;Slice;Weekly;Celebration;No;None;Slice;1.60 €
+Kid;16.0;Masculine;Red Velvet;Chocolate ganache;Whipped cream;Yes;Chocolate chips;Cupcake;Daily;Snack;Yes;Christmas;Cupcake;1.00 €
+Adult;46.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;83.10 €
+Adult;60.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Slice;Weekly;Gathering;No;None;Slice;3.10 €
+Adult;20.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;14.20 €
+Adult;39.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Gathering;No;None;Slice;5.20 €
+Adult;26.0;Feminine;Lemon;Lemon curd;Ganache;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;13.80 €
+Adult;54.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Slice;Weekly;Work event;No;None;Slice;5.60 €
+Adult;56.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Daily;Wedding;Yes;Christmas;Whole cake;39.30 €
+Adult;22.0;Feminine;Lemon;Dulce de leche;Ganache;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;28.00 €
+Adult;54.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Slice;Sporadic;Gathering;No;None;Slice;5.70 €
+Adult;32.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;No;None;Whole cake;20.30 €
+Adult;51.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Slice;Weekly;Work event;No;None;Slice;2.30 €
+Adult;24.0;Masculine;Lemon;Lemon curd;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;Yes;Valentine's Day;Whole cake;24.50 €
+Kid;11.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Weekly;Snack;No;None;Cupcake;3.70 €
+Adult;62.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Daily;Celebration;No;None;Wedding cake;66.70 €
+Adult;58.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Monthly;Gathering;Yes;Halloween;Slice;1.80 €
+Adult;35.0;Masculine;Lemon;Cream cheese;Chocolate glaze;No;None;Slice;Daily;Gathering;No;None;Slice;1.10 €
+Kid;4.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Cupcake;Daily;Birthday;No;None;Cupcake;4.40 €
+Adult;45.0;Feminine;Lemon;Cream cheese;Ganache;;Fruits;Wedding cake;Daily;Celebration;No;None;Wedding cake;96.80 €
+Adult;52.0;Feminine;Carrot;Cream cheese;Ganache;Yes;Nuts;Wedding cake;Daily;Celebration;Yes;Easter;Wedding cake;82.00 €
+Adult;62.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Daily;Gathering;No;None;Wedding cake;60.60 €
+Adult;44.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Daily;Work event;Yes;Easter;Slice;5.90 €
+Adult;61.0;Masculine;Carrot;Lemon curd;Cream cheese frosting;No;None;Whole cake;Sporadic;Gathering;Yes;Easter;Whole cake;39.80 €
+Adult;63.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Work event;Yes;Fall;Wedding cake;64.20 €
+Adult;20.0;Masculine;Carrot;Cream cheese;Chocolate glaze;Yes;Chocolate chips;Wedding cake;Daily;Work event;Yes;Valentine's Day;Wedding cake;100.00 €
+Kid;9.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;;Slice;Weekly;Snack;No;None;Slice;3.10 €
+Adult;49.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;Yes;Fruits;Wedding cake;Weekly;Gathering;No;None;Wedding cake;84.50 €
+Adult;55.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;No;None;Slice;Weekly;Work event;No;None;Slice;5.90 €
+Adult;49.0;Feminine;Lemon;Cream cheese;Chocolate glaze;Yes;Chocolate chips;Wedding cake;Daily;Wedding;Yes;Valentine's Day;Wedding cake;44.10 €
+Adult;40.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;54.50 €
+Adult;64.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Whole cake;Weekly;Gathering;No;None;Whole cake;35.50 €
+Kid;4.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Edible flowers;Cupcake;Weekly;Celebration;No;None;Cupcake;1.30 €
+Adult;34.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Daily;Work event;No;None;Whole cake;27.60 €
+Adult;43.0;Masculine;Lemon;Dulce de leche;Cream cheese frosting;;None;Slice;Daily;Celebration;No;None;Slice;3.70 €
+Kid;11.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;Edible flowers;Cupcake;Daily;Celebration;No;None;Cupcake;5.80 €
+Adult;52.0;Feminine;Lemon;Cream cheese;Ganache;Yes;Nuts;Whole cake;Monthly;Wedding;No;None;Whole cake;18.80 €
+Adult;22.0;Feminine;Lemon;Dulce de leche;Ganache;No;None;Wedding cake;Monthly;Work event;No;None;Wedding cake;82.90 €
+Adult;52.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Wedding;No;None;Slice;5.70 €
+Adult;55.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;No;None;Slice;Weekly;Wedding;No;None;Slice;4.80 €
+Kid;6.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Slice;Daily;Celebration;Yes;Halloween;Slice;3.80 €
+Kid;15.0;Feminine;Chocolate;Chocolate ganache;Buttercream;No;None;Slice;Weekly;Birthday;Yes;Fall;Slice;3.40 €
+Kid;15.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Slice;Sporadic;Birthday;No;None;Slice;4.20 €
+Adult;43.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Slice;Monthly;Work event;No;None;Slice;4.70 €
+Adult;21.0;Feminine;Lemon;Cream cheese;;No;None;Slice;Weekly;Celebration;Yes;Christmas;Slice;1.60 €
+Adult;61.0;Feminine;;Dulce de leche;;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;45.40 €
+Adult;39.0;Feminine;Red Velvet;Lemon curd;Ganache;Yes;Nuts;Slice;Daily;Celebration;No;None;Slice;4.50 €
+Adult;31.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Work event;Yes;Fall;Slice;5.10 €
+Adult;53.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Gathering;Yes;Valentine's Day;Slice;2.80 €
+Adult;29.0;Masculine;;Dulce de leche;Ganache;;None;Slice;Daily;Work event;No;None;Slice;4.00 €
+Adult;62.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Edible flowers;Wedding cake;Monthly;Wedding;No;None;Wedding cake;45.00 €
+Kid;17.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Cupcake;Daily;Snack;Yes;Valentine's Day;Cupcake;5.30 €
+Adult;59.0;Feminine;Carrot;Lemon curd;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;No;None;Whole cake;37.80 €
+Adult;23.0;Masculine;Lemon;Dulce de leche;Ganache;Yes;Chocolate chips;Slice;Monthly;Celebration;No;None;Slice;2.20 €
+Adult;63.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;Yes;Chocolate chips;Slice;Weekly;Gathering;No;None;Slice;2.30 €
+Kid;17.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Monthly;Birthday;No;None;Cupcake;3.40 €
+Adult;34.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Wedding cake;Daily;Wedding;No;None;Wedding cake;46.00 €
+Adult;31.0;Feminine;Carrot;Lemon curd;Ganache;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;76.50 €
+Adult;19.0;Feminine;Lemon;Dulce de leche;Ganache;Yes;;Whole cake;Weekly;Wedding;No;None;Whole cake;22.20 €
+Adult;38.0;Feminine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Whole cake;Monthly;Work event;Yes;Easter;Whole cake;17.80 €
+Adult;57.0;Feminine;Lemon;Cream cheese;Ganache;Yes;Edible flowers;Whole cake;Daily;Wedding;Yes;Valentine's Day;Whole cake;23.60 €
+Kid;9.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;Yes;Chocolate chips;Cupcake;Daily;Celebration;No;None;Cupcake;2.80 €
+Adult;59.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Chocolate chips;Slice;Monthly;Work event;Yes;Valentine's Day;Slice;3.90 €
+Adult;22.0;Feminine;;Cream cheese;Cream cheese frosting;No;None;Whole cake;Sporadic;Work event;Yes;Easter;Whole cake;13.00 €
+Kid;16.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Cupcake;Daily;Birthday;Yes;Fall;Cupcake;5.80 €
+Adult;52.0;Feminine;Carrot;Dulce de leche;Ganache;No;None;Whole cake;Weekly;Work event;Yes;Easter;Whole cake;26.20 €
+Adult;19.0;Feminine;Lemon;Lemon curd;Cream cheese frosting;No;None;Slice;Weekly;Gathering;Yes;Easter;Slice;6.00 €
+Kid;7.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Slice;Daily;Celebration;No;None;Slice;2.10 €
+Adult;63.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Slice;Sporadic;Wedding;No;None;Slice;2.20 €
+Kid;9.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Chocolate chips;Slice;Monthly;Birthday;Yes;Halloween;Slice;4.00 €
+Kid;16.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Slice;Weekly;Snack;Yes;Valentine's Day;Slice;5.80 €
+Kid;6.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Edible flowers;Cupcake;Daily;Celebration;No;None;Cupcake;1.60 €
+Adult;54.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;Yes;Chocolate chips;Whole cake;Daily;Celebration;No;None;Whole cake;26.40 €
+Adult;47.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Spordic;Celebration;Yes;Christmas;Whole cake;15.30 €
+Adult;54.0;Masculine;Red Velvet;Lemon curd;Ganache;No;None;Wedding cake;Monthly;Celebration;No;None;Wedding cake;73.20 €
+Kid;9.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Nuts;Cupcake;Weekly;Celebration;No;None;Cupcake;4.40 €
+Adult;37.0;Feminine;Carrot;Lemon curd;Ganache;No;None;Wedding cake;Monthly;Gathering;No;None;Wedding cake;93.00 €
+Adult;37.0;Masculine;Red Velvet;Cream cheese;Ganache;No;None;Wedding cake;Monthly;Work event;Yes;Easter;Wedding cake;57.80 €
+Adult;51.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Whole cake;Monthly;Wedding;No;None;Whole cake;21.60 €
+Adult;37.0;Feminine;Lemon;Dulce de leche;Ganache;No;None;Whole cake;Sporadic;Work event;No;None;Whole cake;34.50 €
+Kid;10.0;Feminine;Red Velvet;Chocolate ganache;Buttercream;No;None;Slice;Monthly;Birthday;No;None;Slice;3.00 €
+Adult;27.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;No;None;Whole cake;16.00 €
+Adult;22.0;Masculine;Carrot;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;55.70 €
+Adult;63.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Fruits;Slice;Daily;Gathering;No;None;Slice;1.10 €
+Kid;7.0;Masculine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Slice;Daily;Snack;No;None;Slice;3.60 €
+Adult;64.0;Femanine;Lemon;Cream cheese;Ganache;Yes;Fruits;Whole cake;Daily;Work event;No;None;Whole cake;28.00 €
+Adult;63.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;;Slice;Weekly;Celebration;Yes;Valentine's Day;Slice;2.60 €
+Kid;10.0;Feminine;Red Velvet;Strawberry jam;Buttercream;No;None;Slice;Monthly;Celebration;No;None;Slice;1.80 €
+Adult;59.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Wedding cake;Weekly;Wedding;No;None;Wedding cake;81.80 €
+Kid;9.0;Feminine;Chocolate;Chocolate ganache;Buttercream;Yes;Edible flowers;Cupcake;Daily;Celebration;No;None;Cupcake;5.20 €
+Adult;61.0;Masculine;Carrot;Cream cheese;Chocolate glaze;No;None;Slice;Weekly;Wedding;Yes;Fall;Slice;2.70 €
+Kid;8.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Slice;Weekly;Birthday;No;None;Slice;4.10 €
+Adult;24.0;Masculine;Carrot;Dulce de leche;Ganache;Yes;Fruits;Slice;Sporadic;Celebration;No;None;Slice;4.10 €
+Adult;30.0;Feminine;Lemon;Lemon curd;Ganache;No;None;Wedding cake;Weekly;Celebration;No;None;Wedding cake;95.60 €
+Adult;57.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Weekly;Work event;No;None;Whole cake;33.70 €
+Kid;7.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;Yes;Nuts;Cupcake;Weekly;Snack;No;None;Cupcake;2.10 €
+Adult;48.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;13.80 €
+Adult;50.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;68.00 €
+Adult;47.0;Masculine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;33.90 €
+Adult;;Masculine;Lemon;Dulce de leche;Cream cheese frosting;Yes;Fruits;Whole cake;Weekly;Gathering;Yes;Valentine's Day;Whole cake;11.00 €
+Adult;18.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;No;None;Whole cake;37.70 €
+Kid;9.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Slice;Weekly;Celebration;No;None;Slice;1.00 €
+Adult;46.0;Feminine;Carrot;Dulce de leche;Chocolate glaze;No;None;Slice;Weekly;Work event;No;None;Slice;5.20 €
+Kid;16.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Fruits;Slice;Weekly;Birthday;Yes;Fall;Slice;3.50 €
+Adult;52.0;Feminine;Red Velvet;Dulce de leche;Chocolate glaze;No;None;Wedding cake;Monthly;Work event;Yes;Halloween;Wedding cake;68.40 €
+Adult;45.0;Feminine;Lemon;Dulce de leche;Ganache;Yes;Fruits;Slice;Daily;Wedding;Yes;Halloween;Slice;2.20 €
+Adult;18.0;Masculine;Lemon;Cream cheese;Cream cheese frosting;No;None;Whole cake;Weekly;Wedding;Yes;Valentine's Day;Whole cake;19.70 €
+Adult;64.0;Masculine;Carrot;Cream cheese;Chocolate glaze;No;None;Wedding cake;Weekly;Gathering;No;None;Wedding cake;85.50 €
+Adult;65.0;Masculine;Lemon;Lemon curd;Ganache;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;35.50 €
+Kid;15.0;Feminine;Chocolate;Strawberry jam;Chocolate glaze;Yes;Fruits;Cupcake;Monthly;Snack;Yes;Fall;Cupcake;5.30 €
+Kid;14.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Chocolate chips;Slice;Weekly;Celebration;No;None;Slice;1.20 €
+;65.0;Masculine;;Dulce de leche;Ganache;No;None;Wedding cake;Daily;Wedding;No;None;Wedding cake;99.80 €
+Kid;8.0;Masculine;Chocolate;Strawberry jam;Chocolate glaze;No;None;Slice;Weekly;Snack;No;None;Slice;2.20 €
+Adult;23.0;Masculine;Carrot;Lemon curd;Ganache;Yes;Edible flowers;Whole cake;Daily;Work event;No;None;Whole cake;29.90 €
+Adult;40.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Celebration;Yes;Halloween;Slice;5.80 €
+Adult;35.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Daily;Gathering;No;None;Wedding cake;58.30 €
+Adult;50.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Weekly;Celebration;No;None;Whole cake;28.00 €
+Kid;9.0;Feminine;Chocolate;Chocolate ganache;;Yes;Nuts;Slice;Sporadic;Snack;No;None;Slice;3.90 €
+Kid;13.0;Masculine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Sprinkles;Slice;Weekly;Birthday;No;None;Slice;1.60 €
+Adult;65.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;No;None;Wedding cake;Daily;Work event;No;None;Wedding cake;49.80 €
+Adult;45.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Wedding cake;Sporadic;Celebration;Yes;Fall;Wedding cake;65.50 €
+Adult;28.0;Masculine;Lemon;Dulce de leche;Chocolate glaze;Yes;Fruits;Wedding cake;Monthly;Gathering;Yes;Fall;Wedding cake;87.20 €
+Adult;35.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Slice;Monthly;Gathering;No;None;Slice;3.50 €
+Adult;26.0;Masculine;Carrot;Dulce de leche;Cream cheese frosting;No;None;Slice;Daily;Work event;Yes;Easter;Slice;1.90 €
+Kid;5.0;Feminine;Red Velvet;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Daily;Celebration;No;None;Cupcake;5.00 €
+Adult;55.0;Feminine;Lemon;Dulce de leche;Chocolate glaze;Yes;Sprinkles;Whole cake;Weekly;Work event;No;None;Whole cake;28.00 €
+Adult;52.0;Masculine;Carrot;Lemon curd;Ganache;No;None;Whole cake;Daily;Wedding;No;None;Whole cake;16.00 €
+Kid;6.0;Feminine;Chocolate;Strawberry jam;Buttercream;Yes;Chocolate chips;Cupcake;Daily;Snack;No;None;Cupcake;2.80 €
+Adult;28.0;Masculine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Monthly;Wedding;No;None;Wedding cake;52.10 €
+Adult;38.0;Feminine;Red Velvet;Dulce de leche;Ganache;No;None;Whole cake;Monthly;Work event;No;None;Whole cake;28.60 €
+Adult;52.0;Feminine;Carrot;Cream cheese;Ganache;No;None;Slice;Weekly;Work event;Yes;Fall;Slice;5.50 €
+Adult;45.0;Feminine;Red Velvet;Dulce de leche;Ganache;No;None;Slice;Weekly;Celebration;Yes;Valentine's Day;Slice;3.90 €
+Adult;33.0;Masculine;Red Velvet;Lemon curd;Cream cheese frosting;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;77.00 €
+Kid;9.0;Feminine;Chocolate;Chocolate ganache;Chocolate glaze;Yes;Fruits;Cupcake;Sporadic;Birthday;No;None;Cupcake;3.50 €
+Adult;21.0;Feminine;Lemon;Cream cheese;Ganache;No;None;Whole cake;Weekly;Work event;No;None;Whole cake;14.50 €
+Kid;9.0;Masculine;Chocolate;Chocolate ganache;Buttercream;Yes;Sprinkles;Cupcake;Daily;Celebration;No;None;Cupcake;4.90 €
+Kid;13.0;Feminine;Chocolate;Strawberry jam;Whipped cream;Yes;Chocolate chips;Cupcake;Sporadic;Celebration;No;None;Cupcake;4.00 €
+Adult;19.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;No;None;Wedding cake;Weekly;Celebration;No;None;Wedding cake;94.30 €
+Adult;34.0;Feminine;Lemon;Dulce de leche;Cream cheese frosting;No;None;Whole cake;Weekly;Gathering;No;None;Whole cake;17.00 €
+Adult;19.0;Feminine;Red Velvet;Dulce de leche;Ganache;No;None;Slice;Daily;Wedding;Yes;Christmas;Slice;4.90 €
+Adult;64.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Work event;No;None;Whole cake;37.70 €
+Adult;50.0;Masculine;Carrot;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Celebration;No;None;Slice;3.80 €
+Kid;17.0;Feminine;Chocolate;Strawberry jam;Whipped cream;Yes;Fruits;Cupcake;Daily;Birthday;Yes;Christmas;Cupcake;5.40 €
+Kid;6.0;Feminine;Chocolate;Strawberry jam;Buttercream;No;None;Slice;Weekly;Birthday;No;None;Slice;4.40 €
+Adult;31.0;Masculine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Fruits;Slice;Weekly;Celebration;No;None;Slice;4.70 €
+Adult;59.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Wedding cake;Daily;Wedding;No;None;Wedding cake;71.00 €
+Adult;52.0;Feminine;Red Velvet;Cream cheese;Ganache;No;None;Wedding cake;Daily;Wedding;Yes;Fall;Wedding cake;63.70 €
+Kid;17.0;Masculine;Chocolate;Chocolate ganache;Buttercream;No;None;Cupcake;Daily;Birthday;No;None;Cupcake;5.70 €
+Kid;7.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;No;None;Slice;Weekly;Birthday;No;None;Slice;4.60 €
+Kid;8.0;Fem;Chocolate;Strawberry jam;Chocolate glaze;No;None;Slice;Weekly;Birthday;No;None;Slice;2.80 €
+Adult;39.0;Masculine;Carrot;Dulce de leche;Ganache;No;None;Slice;Monthly;Work event;Yes;Christmas;Slice;4.90 €
+Adult;25.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;No;None;Whole cake;Monthly;Work event;Yes;Christmas;Whole cake;31.60 €
+Kid;14.0;Masculine;Red Velvet;Chocolate ganache;Buttercream;No;None;Slice;Weekly;Snack;No;None;Slice;4.20 €
+Adult;38.0;Masculine;Red Velvet;Cream cheese;Chocolate glaze;Yes;Chocolate chips;Wedding cake;Weekly;Gathering;No;None;Wedding cake;46.50 €
+Kid;14.0;Feminine;Red Velvet;Strawberry jam;Chocolate glaze;Yes;Nuts;Cupcake;Weekly;Birthday;No;None;Cupcake;3.20 €
+Adult;44.0;Feminine;Vannila;Cream cheese;Cream cheese frosting;No;None;Wedding cake;Weekly;Work event;No;None;Wedding cake;64.60 €
+Adult;63.0;Feminine;Lemon;Cream cheese;Cream cheese frosting;No;None;Slice;Weekly;Gathering;No;None;Slice;3.90 €
+Kid;15.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;Yes;Edible flowers;Slice;Weekly;Snack;Yes;Christmas;Slice;5.10 €
+Adult;22.0;Feminine;Lemon;Cream cheese;Chocolate glaze;No;None;Whole cake;Monthly;Work event;No;None;Whole cake;38.50 €
+Adult;52.0;Feminine;Carrot;Dulce de leche;Cream cheese frosting;Yes;Sprinkles;Whole cake;Monthly;Wedding;Yes;Easter;Whole cake;39.20 €
+Kid;5.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;Yes;Fruits;Slice;Weekly;Birthday;Yes;Valentine's Day;Slice;1.90 €
+Kid;14.0;Feminine;Chocolate;Chocolate ganache;;Yes;Nuts;Slice;Monthly;Snack;No;None;Slice;4.20 €
+Adult;30.0;Masculine;Lemon;Cream cheese;Ganache;No;None;Wedding cake;Daily;Gathering;No;None;Wedding cake;83.40 €
+Adult;33.0;Masculine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Whole cake;Daily;Gathering;No;None;Whole cake;31.00 €
+Kid;17.0;Feminine;Chocolate;Chocolate ganache;Whipped cream;Yes;Fruits;Cupcake;Weekly;Birthday;No;None;Cupcake;3.50 €
+Adult;21.0;Feminine;Carrot;Cream cheese;Cream cheese frosting;Yes;Chocolate chips;Whole cake;Weekly;Wedding;No;None;Whole cake;31.50 €
+Adult;65.0;Feminine;Red Velvet;Dulce de leche;Cream cheese frosting;Yes;Fruits;Wedding cake;Daily;Wedding;No;None;Wedding cake;58.80 €
+Adult;57.0;Feminine;Red Velvet;Cream cheese;Cream cheese frosting;No;None;Slice;Daily;Gathering;No;None;Slice;5.60 €
